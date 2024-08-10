@@ -7,6 +7,10 @@ import pickle
 from transformers import AutoModel, AutoTokenizer
 from torch.nn.functional import normalize
 from groq import Groq
+import warnings
+
+
+warnings.filterwarnings("ignore")
 
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 
@@ -29,7 +33,7 @@ def retrieve_relevant_chunks(query, model_id, index, df, cache_dir, k=5):
     tokenizer = AutoTokenizer.from_pretrained(model_id, cache_dir=cache_dir)
     model = AutoModel.from_pretrained(model_id, add_pooling_layer=False, cache_dir=cache_dir)
     model.eval()
-
+    query = f'Represent this sentence for searching relevant passages: {query}'
     query_tokens = tokenizer([query], padding=True, truncation=True, return_tensors='pt', max_length=512)
     with torch.inference_mode():
         query_embedding = model(**query_tokens)[0][:, 0]
@@ -55,26 +59,36 @@ def generate_response(query, relevant_chunks, client):
                 )
             }
         ],
-        model="llama-3.1-8b-instant",
+        model="mixtral-8x7b-32768",
     )
     return response.choices[0].message.content
 
 def main():
-    # Get the query from user input in the terminal
-    query = input("Enter your query: ")
+    
+    print("Welcome to the Xtracap Fintech Policy Document Chatbot!")
+    print("Type 'stop' to end the session.\n")
 
-    if query.strip() == "":
-        print("Please enter a valid query.")
-    else:
-        chunk_embeddings, index = load_embeddings_and_index(embeddings_file, index_file)
-        client = Groq(api_key="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")
+    
+    chunk_embeddings, index = load_embeddings_and_index(embeddings_file, index_file)
+    client = Groq(api_key="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")
+
+    while True:
         
-        print("Retrieving and processing the answer...")
-        relevant_chunks = retrieve_relevant_chunks(query, model_id, index, df, cache_dir=cache_dir)
-        response = generate_response(query, relevant_chunks, client)
-        
-        print("Answer:")
-        print(response)
+        query = input("Enter your query: ")
+
+        if query.strip().lower() == "stop":
+            print("Ending the session. Goodbye!")
+            break
+        elif query.strip() == "":
+            print("Please enter a valid query.")
+        else:
+            print("Retrieving and processing the answer...")
+            relevant_chunks = retrieve_relevant_chunks(query, model_id, index, df, cache_dir=cache_dir)
+            response = generate_response(query, relevant_chunks, client)
+            
+            print("Answer:")
+            print(response)
+            print("\n")  
 
 if __name__ == "__main__":
     main()

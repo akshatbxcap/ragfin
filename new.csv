@@ -4,8 +4,9 @@ To meet the enterprise business objectives and ensure acceptable use of its info
 The acceptable use policy and guidelines shall be communicated to and understood by all the employees of XTRACAP. The acceptable use policy and guidelines shall be available to the CEO, GMs, DGMs, AGMs, managers.
 
 2. Purpose
-The purpose of this policy is to outline the acceptable use of IT assets at XTRACAP. These rules are in place to protect the employees and the organization. Inappropriate use exposes FCI to risks including virus attacks, compromise of network systems and services, and legal issues."
-1,Acceptable Usage.txt,"3. Scope
+The purpose of this policy is to outline the acceptable use of IT assets at XTRACAP. These rules are in place to protect the employees and the organization. Inappropriate use exposes FCI to risks including virus attacks, compromise of network systems and services, and legal issues.
+
+3. Scope
 3.1 Employees
 This policy applies to all XTRACAPâs Employees, Contractors, and Third-Party Employees, who have access to IT assets of XTRACAP and may be bound by contractual agreements.
 3.2 IT Assets
@@ -20,15 +21,17 @@ Records being generated as part of the Acceptable Use Policy shall be retained f
 The Acceptable Use Policy document shall be made available to all the employees covered in the scope. All the changes and new releases of this document shall be made available to the  concerned. The maintenance responsibility of the document shall be with the CISO and system administrators.
 
 4. Privacy
-The Acceptable Use Policy document shall be considered as âconfidentialâ and shall be made available to the concerned persons with proper access control. Subsequent changes and versions of this document shall be controlled."
-2,Acceptable Usage.txt,"5. Responsibility
+The Acceptable Use Policy document shall be considered as âconfidentialâ and shall be made available to the concerned persons with proper access control. Subsequent changes and versions of this document shall be controlled.
+
+5. Responsibility
 The Acceptable Use Policy shall be implemented by the CISO / designated personnel.
 Information Security Management is responsible for maintaining this policy and advising generally on information security controls. Working in conjunction with other corporate functions, it is also responsible for running educational activities to raise awareness and understanding of the responsibilities identified in this policy.
 IT Department is responsible for building, configuring, operating and maintaining the corporate email facilities (including anti-spam, anti-malware and other email security controls) in accordance with this policy.
 IT Help/Service Desk is responsible for assisting users with secure use of email facilities, and acts as a focal point for reporting email security incidents.
 All relevant employees are responsible for complying with this and other corporate policies at all times. This policy also applies to third party employees acting in a similar capacity whether they are explicitly bound (e.g., by contractual terms and conditions) or implicitly bound (e.g. by generally held standards of acceptable behavior) to comply with our information security policies.
-Internal Audit is authorized to assess compliance with this and other corporate policies at any time."
-3,Acceptable Usage.txt,"6. Policy
+Internal Audit is authorized to assess compliance with this and other corporate policies at any time.
+
+6. Policy
 6.1 General Use and Ownership
 a. While the security administration of XTRACAP desires to provide a reasonable level of privacy, users should be aware that the data they create on corporate systems remains the property of XTRACAP. Because of the need to protect the IT assets of XTRACAP, management cannot guarantee the confidentiality of personal information stored on any IT asset belonging to XTRACAP.
 b. Employees are responsible for exercising good judgment regarding the reasonableness of personal use. Individual departments are responsible for creating guidelines concerning personal use of Internet and Intranet systems. In the absence of such policies, employees should be guided by departmental policies on personal use, and if there is any uncertainty, employees should consult their supervisor or manager.
@@ -39,8 +42,8 @@ e. XTRACAP reserves the right to audit networks and systems on a periodic basis 
 a. The user interface for information contained on Internet and Intranet-related systems shall be classified accordingly. Employees shall take all necessary steps to prevent unauthorized access to this information.
 b. Authorized users shall be responsible for the security of their passwords and accounts.
 c. Encryption of information, if used, shall be in compliance with XTRACAPâs Cryptographic Control Usage Policy.
-d. Information contained on portable computers shall be protected."
-4,Acceptable Usage.txt,"e. Users and employees shall use suitable procedures and guidelines for acceptable use of E-mail and internet resources.
+d. Information contained on portable computers shall be protected.
+e. Users and employees shall use suitable procedures and guidelines for acceptable use of E-mail and internet resources.
 6.3 Unacceptable Use
 Under no circumstances is an employee of XTRACAP authorized to engage in any activity that is illegal under national or international law while utilizing XTRACAP-owned resources. The guidelines for Acceptable Use can be referred to as a list of activities that fall under the category of unacceptable use.
 6.4 Email Security
@@ -50,15 +53,15 @@ To create, send, forward or store emails with messages or attachments that might
 To commit the organization to a third party for example through purchase or sales contracts, job offers or price quotations, unless you are explicitly authorized by management to do so (principally staff within Procurement and HR). Do not interfere with or remove the standard corporate email disclaimer automatically appended to outbound emails;
 For private or charity work unconnected with the organizationâs legitimate business;
 In ways that could be interpreted as representing or being official public statements on behalf of the organization, unless you are a spokesperson explicitly authorized by management to make such statements;
-To send a message from anyone elseâs account or in their name (including the use of false âfrom:â addresses). If authorized by the manager, a secretary may send email on the managerâs behalf but should sign the email in their own name per pro (âfor and on behalf ofâ) the manager;"
-5,Acceptable Usage.txt,"To send any disruptive, offensive, unethical, illegal or otherwise inappropriate matter, including offensive comments about race, gender, color, disability, age, sexual orientation, pornography, terrorism, religious beliefs and practice, political beliefs or national origin, hyperlinks or other references to indecent or patently offensive websites and similar materials, jokes, chain letters, virus warnings and hoaxes, charity requests, viruses or other malicious software;
+To send a message from anyone elseâs account or in their name (including the use of false âfrom:â addresses). If authorized by the manager, a secretary may send email on the managerâs behalf but should sign the email in their own name per pro (âfor and on behalf ofâ) the manager;
+To send any disruptive, offensive, unethical, illegal or otherwise inappropriate matter, including offensive comments about race, gender, color, disability, age, sexual orientation, pornography, terrorism, religious beliefs and practice, political beliefs or national origin, hyperlinks or other references to indecent or patently offensive websites and similar materials, jokes, chain letters, virus warnings and hoaxes, charity requests, viruses or other malicious software;
 For any other illegal, unethical or unauthorized purpose.
 2. Apply your professional discretion when using email, for example abiding by the generally accepted rules of email etiquette. Review emails carefully before sending, especially formal communications with external parties.
 3. Do not unnecessarily disclose potentially sensitive information in âout of officeâ messages.
 4. Emails on the corporate IT systems are automatically scanned for malicious software, spam and unencrypted proprietary or personal information. Unfortunately, the scanning process is not 100% effective (e.g., compressed and encrypted attachments may not be fully scanned), therefore undesirable/unsavory emails are sometimes delivered to users. Delete such emails or report them as security incidents to IT Help/Service Desk in the normal way.
 5. Except when specifically authorized by management or where necessary for IT system administration purposes, employees must not intercept, divert, modify, delete, save or disclose emails.
-6. Limited personal use of the corporate email systems is permitted at the discretion of local management provided always that it is incidental and occasional, and does not interfere with business. You should have no expectations of privacy: all emails traversing the corporate systems and networks are subject to automated scanning and may be quarantined and/or reviewed by authorized employees."
-6,Acceptable Usage.txt,"7. Do not use Gmail, Hotmail, Yahoo or similar external/third-party email services (commonly known as âweb-mailâ) for business purposes. Do not forward or auto-forward corporate email to external/third party email systems. [You may access your own web-mail via corporate IT facilities at local management discretion provided that such personal use is strictly limited and is not considered private.
+6. Limited personal use of the corporate email systems is permitted at the discretion of local management provided always that it is incidental and occasional, and does not interfere with business. You should have no expectations of privacy: all emails traversing the corporate systems and networks are subject to automated scanning and may be quarantined and/or reviewed by authorized employees.
+7. Do not use Gmail, Hotmail, Yahoo or similar external/third-party email services (commonly known as âweb-mailâ) for business purposes. Do not forward or auto-forward corporate email to external/third party email systems. [You may access your own web-mail via corporate IT facilities at local management discretion provided that such personal use is strictly limited and is not considered private.
 8. E-mail shall only be used for business purposes, using terms that are consistent with other forms of business communication. E-mail guidelines are intended to help users make the best use of the electronic mail facilities at their disposal. When using the organizationâs electronic mail facilities, users should comply with the E-mail guidelines.
 
 
@@ -71,8 +74,11 @@ For any other illegal, unethical or unauthorized purpose.
 
 7. Enforcement
 Any employee found to have violated this policy may be subjected to disciplinary action in line with the HR Policy"
-7,Access Control.txt,ACCESS CONTROL POLICY
-8,Access Control.txt,"Introduction  
+1,Access Control.txt,"ACCESS CONTROL POLICY
+ 
+
+
+Introduction  
 Information is the critical aspect for any organizationâs existence and growth. It is of utmost importance that the policy is defined at organizational level to establish the need to secure information and information processing facilities. Access to information, information processing facilities, and business processes should be controlled on the basis of business and security requirements.
 Objective
 The purpose of this Policy is to prevent unauthorized access to operating systems. This Policy is designed to protect information from unauthorized change, destruction, or disclosure, whether intentional or accidental.
@@ -87,8 +93,9 @@ Access to information or information processing facilities
 
 On the first day of joining, System Admin & Human Resource (HR) departments ensure that personnel have computer system ready, inline with Human Resource Security Procedure, User Access Management Procedure and Password Management Policy.
 
-Access to information and information processing facilities is controlled and restricted as per the role and responsibility of the personnel & the group theyâre assigned to:"
-9,Access Control.txt,"Leadership Group: Access to all the files and groups
+Access to information and information processing facilities is controlled and restricted as per the role and responsibility of the personnel & the group theyâre assigned to:
+
+Leadership Group: Access to all the files and groups
 HR: Mohammed Riaz
 Marketing: Leadership +Marketing group
 BA: BA+ QA + Leadership
@@ -102,11 +109,12 @@ These rules are established based on premise âEverything other than rules d
 Department-specific rules and rights must be defined, reviewed, and approved by the IT-Infra Head and it is reviewed on a quarterly basis to assess the risks associated with access rights;
 
 Access control rules and rights for each user and/or group of users are clearly defined and implemented."
-10,Access Management.txt,"Introduction  
+2,Access Management.txt,"Introduction  
 Access management is the process of identifying, tracking, controlling and managing authorized or specified usersâ access to a system, application or functionality. In essence, it helps monitor and limit the number of users and their access to different systems and data in the company. There will be a specific hierarchy to the system where a few designations provide the permission to others to view/edit/initiate a process or document. 
 Objective
-The purpose of this Policy is to prevent unauthorized access to different systems and functionalities. It will also delineate a hierarchy through which the users that seek access to a system must go through. The document will also carry the procedure they must follow in order to gain the right to access the system/functionality. The document also lists all the systems/functions/documents that fall under this purview and the ones that can be access by anyone in the company."
-11,Access Management.txt,"Scope
+The purpose of this Policy is to prevent unauthorized access to different systems and functionalities. It will also delineate a hierarchy through which the users that seek access to a system must go through. The document will also carry the procedure they must follow in order to gain the right to access the system/functionality. The document also lists all the systems/functions/documents that fall under this purview and the ones that can be access by anyone in the company. 
+
+Scope
 The scope of this Policy includes all XTRACAP employees. Each employee is responsible for carrying out his or her responsibilities under this Policy.
 The scope of this policy will also include third parties that will gain access to the app or integrate with any of the services on our system.  
 Reference
@@ -116,7 +124,7 @@ The following list includes (but is not limited to) the roles that are ones that
 
 Enforcement
 Violations of this Policy  are not limited to: accessing information and information processing facilities which the individual has no legitimate access; enabling unauthorized individuals to access the information; disclosing information in a way which violates applicable policy, Policy or other relevant regulations or laws; or inappropriately modifying or destroying information. Violations may result in access revocation, corrective action up to and including dismissal, and/or civil or criminal prosecution under applicable law."
-12,Application Security.txt,"Overview
+3,Application Security.txt,"Overview
 Web application vulnerabilities account for the largest portion of attack vectors outside of malware. It is crucial that any web application be assessed for vulnerabilities and any vulnerabilities be remediated prior to production deployment.
 Purpose
 The purpose of this policy is to define web application security assessments within Xtracap. Web application assessments are performed to identify potential or realized weaknesses as a result of inadvertent mis-configuration, weak authentication, insufficient error handling, sensitive information leakage, etc.  Discovery and subsequent mitigation of these issues will limit the attack surface of Xtracap services available both internally and externally as well as satisfy compliance with any relevant policies in place.
@@ -128,15 +136,17 @@ All application security assessments will be performed by delegated security per
 
 Any relationships within multi-tiered applications found during the scoping phase will be included in the assessment unless explicitly limited.  Limitations and subsequent justification will be documented prior to the start of the assessment.
 Policy
-4.1 Web applications are subject to security assessments based on the following criteria:"
-13,Application Security.txt,"New or Major Application Release â will be subject to a full assessment prior to approval of the change control documentation and/or release into the live environment.
+4.1 Web applications are subject to security assessments based on the following criteria:
+
+New or Major Application Release â will be subject to a full assessment prior to approval of the change control documentation and/or release into the live environment.
 Third Party or Acquired Application â will be subject to full assessment after which it will be bound to policy requirements.
 Point Releases â will be subject to an appropriate assessment level based on the risk of the changes in the application functionality and/or architecture.
 Patch Releases â will be subject to an appropriate assessment level based on the risk of the changes to the application functionality and/or architecture.
 Emergency Releases â An emergency release will be allowed to forgo security assessments and carry the assumed risk until such time that a proper assessment can be carried out.  Emergency releases will be designated as such by IT Lead or an appropriate manager who has been delegated this authority.
 
-4.2 All security issues that are discovered during assessments must be mitigated based upon the following risk levels. The Risk Levels are based on the OWASP Risk Rating Methodology. Remediation validation testing will be required to validate fix and/or mitigation strategies for any discovered issues of Medium risk level or greater."
-14,Application Security.txt,"High â Any  issue must be fixed immediately or other mitigation strategies must be put in place to limit exposure before deployment.  Applications with  issues are subject to being taken off-line or denied release into the live environment.
+4.2 All security issues that are discovered during assessments must be mitigated based upon the following risk levels. The Risk Levels are based on the OWASP Risk Rating Methodology. Remediation validation testing will be required to validate fix and/or mitigation strategies for any discovered issues of Medium risk level or greater.
+
+High â Any  issue must be fixed immediately or other mitigation strategies must be put in place to limit exposure before deployment.  Applications with  issues are subject to being taken off-line or denied release into the live environment.
 Medium â Medium risk issues should be reviewed to determine what is required to mitigate and scheduled accordingly.  Applications with medium risk issues may be taken off-line or denied release into the live environment based on the number of issues and if multiple issues increase the risk to an unacceptable level.  Issues should be fixed in a patch/point release unless other mitigation strategies will limit exposure.
 Low â Issue should be reviewed to determine what is required to correct the issue and scheduled accordingly.
 
@@ -149,8 +159,11 @@ Targeted â A targeted assessment is performed to verify vulnerability remed
 
 â¢	
 
-â¢"
-15,Application Security.txt,"Other tools and/or techniques may be used depending upon what is found in the default assessment and the need to determine validity and risk are subject to the discretion of the Security Engineering team.
+â¢	
+
+
+
+Other tools and/or techniques may be used depending upon what is found in the default assessment and the need to determine validity and risk are subject to the discretion of the Security Engineering team.
 
 Policy Compliance
 Compliance Measurement
@@ -164,7 +177,7 @@ Related Standards, Policies and Processes
 OWASP Top Ten Project
 OWASP Testing Guide  
 OWASP Risk Rating Methodology"
-16,Asset management policy.txt,"Policy Statement
+4,Asset management policy.txt,"Policy Statement
 The policy highlights the management of all company owned assets from employees, third parties etc. 
 
 Objective
@@ -188,7 +201,7 @@ In case of resignation/termination of the contract of any employees, the resourc
 
 EnforcementÂ 
 Any employee found to have violated this policy may be subjected to disciplinary action in line with the HR Policy"
-17,Backup Policy.txt,"Introduction:
+5,Backup Policy.txt,"Introduction:
 The software and hardware that make up the computer networks are essential resources for Organizations. They aid staff in carrying out their everyday duties and without them important communication systems would not exist. 
 Computer backup pose considerable risks to data and provides an opportunity to restore the data from backup if there is any requirement of it like in deletion, corruption, hardware failure situation etc.
 
@@ -224,8 +237,9 @@ Backup Schedule
 Weekly backup will be taken as per the request raise by the stack holders & available in the backup sheet maintained by the IT department . Every request of backup requirement must be part of this backup sheet.
 	
 
-RESTORE INVOCATION:"
-18,Backup Policy.txt,"Â· Regular Restoration Request 
+RESTORE INVOCATION:
+
+Â· Regular Restoration Request 
 A Small level of restoration will be performed after backup is done, department responsible person whose data is restored would validate the same and acknowledges.  
 
 Â· Emergency Restore
@@ -233,13 +247,22 @@ In the event of a disaster, an emergency restoration request will be initiated; 
 
 Â· Periodic Backup Restoration Testing
 To ensure that the backup scheme is working as expected, restoration testing shall be initiated on daily basis on QA after scrubbing the customerâs personal data,"
-19,BCP.txt,"Introduction  
+6,BCP.txt,"Introduction  
 Business survival in the current competitive environment necessitates planning for every type of business disruption including - but by no means limited to - the categories of natural disasters; hardware and communications failures; internal or external sabotage or acts of terrorism; and the failures of supply chain and sales affiliate organizations. While some business disruptions, may give advance warning others, such as terrorism, flash floods, fire, etc., can strike without notice. The threats that we (and by extension our clients) face today are more numerous and complex than those we have faced in the past. In addition, this is not going to change - tomorrow's threat environment will be much worse than todays. These disruptions usually affect the normal operations of the business, with results ranging from insured losses of replaceable tangibles to uninsurable capital losses, customer dissatisfaction, and even possible desertion. 
 
 The situation gets more complex with the growth of e-commerce and other factors, having driven system availability expectations toward 24 X 7. The average organizationâs requirement for recovery time from a major system outage now ranges between 2 and 24 hours.
 
-Xtracap being a customer-oriented organization with the philosophy of growing together with customers is sensitive to the impact that any such break down would have on its customerâs business and commitments. This has led to the formulation of a holistic approach to Disaster Management and Business Process Continuity for Xtracap as the Continuity of Business Plan. The purpose of the plan is to equip Xtracap to be able to respond to any type of situation - including those that we have not identified as a threat. To put in place management controls to respond quickly and to a plan as situations unfold."
-20,BCP.txt,"Objective
+Xtracap being a customer-oriented organization with the philosophy of growing together with customers is sensitive to the impact that any such break down would have on its customerâs business and commitments. This has led to the formulation of a holistic approach to Disaster Management and Business Process Continuity for Xtracap as the Continuity of Business Plan. The purpose of the plan is to equip Xtracap to be able to respond to any type of situation - including those that we have not identified as a threat. To put in place management controls to respond quickly and to a plan as situations unfold.
+
+
+
+
+
+
+
+
+
+Objective
 The objectives of a Business Continuity Plan are (but not limited to):
 
 To minimize interruptions to normal operations. 
@@ -265,8 +288,11 @@ Loss of network connectivity - low probability, high impact
 Scope excludes: Client-owned information resources exclusively governed by clientâs own Disaster recovery and Business Continuity procedure. Also, area level disasters are outside the scope of BCP, but best efforts will still be made.
 Reference
 ISO/IEC 27001:2013
-Stakeholders"
-21,BCP.txt,"Xtracap Business Location
+Stakeholders
+
+
+
+Xtracap Business Location
 Primary Location
 Xtracap Fintech
 5th Floor, The Circle - Huda City Centre, Sector 29, Gurugram, Haryana 122002
@@ -281,12 +307,13 @@ The Plan is predicated on the validity of the following assumptions:
 
 The situation that causes the disaster is localized to the facility of Operations and Systems in the current office premises of Xtracap Fintech at Gurugram.
 It should be noted however, that the Plan would still be functional and effective even in an area-wide disaster. Even though the basic priorities for restoration of essential services to the surrounding affected areas will normally take precedence over the recovery of an individual organization. Xtracap's Continuity of Business Plan can still provide for a more expeditious restoration of our resources for supporting key functions.
-The continuity of business plan is based on the availability of the hot sites or the back-up resources, as described in this document. The accessibility of these, or equivalent back-up resources, is a critical requirement."
-22,BCP.txt,"Overview of the Continuity of Business Plan (CoBP)
+The continuity of business plan is based on the availability of the hot sites or the back-up resources, as described in this document. The accessibility of these, or equivalent back-up resources, is a critical requirement.
+
+Overview of the Continuity of Business Plan (CoBP)
 Xtracap recognizes the low probability of severe damage to Data Processing, Telecommunication, or Support Services capabilities at both Xtracap and any of its preferred vendors. Nevertheless, a plan like the COBP is necessary to identify the potential impact of such an incident on the assets of Xtracap and its clients.
 
 In the event of a disaster affecting any of the functional areas, the Disaster Recovery Team serves as liaison between the functional area(s) affected and other external organizations providing major services. For the BCP purpose, following roles and representatives are identified as Disaster Recovery Team (DRT): -"
-23,BCP.txt,"KEY MANAGERIAL PERSONNEL
+7,BCP.txt,"KEY MANAGERIAL PERSONNEL
 
 The Designation & Contact Information of Key Managerial Personnel is mentioned below:
 
@@ -294,8 +321,12 @@ The Designation & Contact Information of Key Managerial Personnel is mentioned b
 
 IMPORTANT Partner INFORMATION
 
-The Contact Information of Partners & Service providers to be Contacted during a Disaster is given below: -"
-24,BCP.txt,"Recovery Prioritization
+The Contact Information of Partners & Service providers to be Contacted during a Disaster is given below: -
+
+
+
+
+Recovery Prioritization
 Category I
 Restoring the API connectivity between the Bank and NBFC so  that the payments are collected & disbursed smoothly.
 Category II
@@ -327,8 +358,10 @@ Mobilization of manpower to re-locate the project depending on the type of conti
 Disaster Recovery Process Flow
 Disaster Recovery Preparation
 
-The Disaster Recovery Team (DRT) led by the Disaster Recovery Manager will:"
-25,BCP.txt,"Get ready the list of all personnel's name and their telephone numbers.
+The Disaster Recovery Team (DRT) led by the Disaster Recovery Manager will:
+
+
+Get ready the list of all personnel's name and their telephone numbers.
 Keep a list of Key Managerial Personnel for business continuity 
 Have the bridge number handy to get on the conference call.
 Make all personnel aware of their tasks and responsibilities.
@@ -349,8 +382,11 @@ Initiation of the Natural Disaster Recovery Plan (DRP)
 Initiation of the DRP & CoBP is the responsibility of the DRT Manager or Director.
 Activate the Damage Assessment Team (DAT), which is a nominated team comprising of DRT members. 
 Update the Director to initiate damage control exercises with the clients considering the criticality matrix
-Respective Communication Manager will inform the domestic clients about the impact of the damages and the immediate plans"
-26,BCP.txt,"Activities depending upon the nature of loss 
+Respective Communication Manager will inform the domestic clients about the impact of the damages and the immediate plans
+
+
+
+Activities depending upon the nature of loss 
 
 Case 1 â Loss of Access to Office Premises â Xtracap Remains Functional
 
@@ -367,8 +403,9 @@ Arrange systems for those who have no system. Manager will coordinate with the v
 CDs with the software required to resume work will be made available to critical project team through courier or by reaching out.
 Manager will request IT-Support/onsite counterpart to provide VPN access to those not having it and are critical to the delivery.
 
-Case 2 â Loss of Access to Office Premises âXtracap is non-Functional"
-27,BCP.txt,"Respective Manager will identify the criticality of project and its deliverables.
+Case 2 â Loss of Access to Office Premises âXtracap is non-Functional
+
+Respective Manager will identify the criticality of project and its deliverables.
 Manager will identify critical people who need to resume work.
 Manager will intimate critical people to resume work immediately - those having system, internet, and access to requisite VPN connectivity.
 DRT Leader will take decision with the team whether to use the DR site. If a decision is taken not to use the business center but have people work from home, Manager will be required to do the following: -
@@ -378,8 +415,9 @@ CDs with the software required to resume work will be made available to critical
 Manager will request IT-Support/onsite counterpart to provide VPN access to those not having it and are critical to the delivery.
 
 Damage Assessment and Salvage
-This subsection contains instructions to Disaster Recovery Team for disaster response, disaster assessment and recovery efforts."
-28,BCP.txt,"Plan of Action
+This subsection contains instructions to Disaster Recovery Team for disaster response, disaster assessment and recovery efforts. 
+
+Plan of Action
 Disaster Recovery Manager to notify team members, and vendors to report to the site for initial damage assessment and clean up. 
 Disaster Recovery Manager to notify insurance representative, if any.
 Disaster Recovery Manager to issue work-orders and call appropriate personnel. 
@@ -396,8 +434,12 @@ Disaster Recovery Team Have the Manager Administration to determine which equipm
 Disaster Recovery Team Important ** before performing any salvage operation contact Insurance Team to coordinate with possible insurance claims requirements and appraisals. 
 Have the staff start salvaging any furniture and equipment. 
 Based upon advice from Insurance Team and Infrastructure team, contact computer hardware refurbishes regarding reconditioning of damaged equipment 
-Disaster Recovery Manager to meet with the Director to provide status on salvage operations."
-29,BCP.txt,"Security 
+Disaster Recovery Manager to meet with the Director to provide status on salvage operations. 
+
+
+
+
+Security 
 This subsection contains instructions to the Security for disaster response and recovery efforts. 
 
 Plan of Action
@@ -422,8 +464,9 @@ What has been done to prevent recurrence of this type of emergency?
 Infrastructure and Telecommunications 
 This subsection contains instructions to the Infrastructure and Telecommunications Systems team for disaster response and recovery efforts. 
 
-Plan of Action"
-30,BCP.txt,"Receives report of disaster.
+Plan of Action
+
+Receives report of disaster.
 Oversees assessment of damage to infrastructure and telecommunications facilities. Directs contingency and recovery efforts. Provides updates to Disaster Recovery Team, Disaster Recovery Manager along with Top Management.
 Arranges for telecommunications services to support critical functions. Procures stock to repair or replace damaged equipment. Restores full services in a timely manner. 
 Assists with restoration of cable and wire, as needed. Assists other departments with relocation and restoration of data facilities. 
@@ -433,8 +476,11 @@ Assists with restoration of cable and wire, as needed. Assists other departments
 Disaster Recovery Plan (DRP) & Strategy for IT Network
 
 Network Diagram"
-31,BCP.txt,Monitoring & Alert	:	Yes
-32,BCP.txt,"Scenario: NETWORK DEVICE IS DOWN, SECONDARY BACKUP DEVICE AVAILABLE
+8,BCP.txt,"Monitoring & Alert	:	Yes
+
+
+
+Scenario: NETWORK DEVICE IS DOWN, SECONDARY BACKUP DEVICE AVAILABLE
 
 Action plan for network devices is as follows:
 
@@ -466,8 +512,10 @@ Disaster Recovery Plan (DRP) & Strategy for IT Software Segment
 
 Xtracap employees have been given Laptop and Internet Data cards, hence during emergencies they can work from home and connect to VPN to continue their tasks.
 Containment strategy is also to be taken in the event of a disaster or service disruption to minimize the impact of any service disruption through a focus on  keeping  the operations running at the highest level of service possible.
-To smooth communication, it is imperative to have responsibilities clearly allocated, which is done as required and as follows: -"
-33,BCP.txt,"Disaster Recovery Plan (DRP) & Strategy for Active Directory (Domain Server)
+To smooth communication, it is imperative to have responsibilities clearly allocated, which is done as required and as follows: -
+
+
+Disaster Recovery Plan (DRP) & Strategy for Active Directory (Domain Server)
 
 Scenario 1:	OS corrupt, Hardware Failure and object deletion 
 Case 1:	Operating System corrupted on DC1 server, System State Backup available.
@@ -494,8 +542,9 @@ Now a Pop up Message will appear, click on OK.
 When login prompt will appear enter administrator, in User Name box, and the password in Password box, click on OK.
 STEP 4:
 To do this you will need to boot into DSRM (Directory Services Restore Mode) by restarting your server and pressingÂ F8Â during the restart.
-ChooseÂ Directory Services Restore ModeÂ from the Advanced Boot menu."
-34,BCP.txt,"Login to your server with your DSRM password you created during Active Directory installation.
+ChooseÂ Directory Services Restore ModeÂ from the Advanced Boot menu.
+
+Login to your server with your DSRM password you created during Active Directory installation.
 Once you're logged into your server and in DSRM safe mode, open a command prompt by clickingÂ Start, type ""cmd"", and press enter.
 To make sure you restore the correct backup it's a good idea to use the ""wbadmin get versions"" command and write down the version you need to use.
 Now we need to perform a non-authoritative restore of Active Directory by typing ""wbadmin start systemstaterecovery -version: âDate-time"".
@@ -523,7 +572,7 @@ STEP 1:
 You can use a different backup target of your choosing
 Type ""y"" and press enter to start the backup process.
 When the backup is finished running you should get a message that the backup completed successfully. If it did not complete properly you will need to troubleshoot."
-35,BCP.txt,"STEP 2:
+9,BCP.txt,"STEP 2:
 Reinstalled the OS to the same drive letter C as previously, with same installation folder, and with same physical amount.
 STEP 3:
 Now restart the server, and after BIOS information press F8 key.
@@ -557,22 +606,23 @@ Expand Microsoft, and then expand Rpc
 Now verify the existence of key ClientProtocols
 Now in right pane verify the existence of the following values:
 Ncacn_ip_tcp	REG_SZ	rpcrt4.dll
-Ncacn_nb_tcp	REG_SZ	rpcrt4.dll"
-36,BCP.txt,"Ncacn_ip_udp	REG_SZ	rpcrt4.dll
+Ncacn_nb_tcp	REG_SZ	rpcrt4.dll
+	Ncacn_ip_udp	REG_SZ	rpcrt4.dll
 	Ncancn_np	REG_SZ	rpcrt4.dll
 STEP 8:
 Click on Start   Run, and type cmd .
 In command prompt type dcdiag /fix, and view the result.
 Now type netdiag, and view the result.
-To verify the replication type repadmin /showreps"
-37,BCP.txt,"Emergency Incident Response Plan
+To verify the replication type repadmin /showreps
+
+Emergency Incident Response Plan
 This section of the document explains the importance of developing an incident response plan through a well-defined incident response framework. The framework comprises seven phases that ensure a consistent and systematic approach in handling such incidents. The details for each of the seven phases is summarized below:
 Phase 1 â Preparation: In any incident response plan, it is essential to form an Incident Response Team (âIRTâ) prior to other tasks. The role of the team is to promptly handle an incident so that it will have minimal impact to the business operation. The team is formed of members from various functional roles in your organisation. The process of setting up the team is explained in section 4.1.
 Phase 2 â Identification: The occurrence of an incident is unpredictable. An anomaly in the system behaviour may indicate an incident or configuration errors. Hence, identifying an incident amidst routine daily operations is not an easy task. In section 4.2, some guidelines are provided to facilitate the process of positively identifying an intrusion incident.
 Phase 3 â Assessment: After the identification phase, an initial assessment should be performed to confirm the existence of the incident. The assessment should include determining the scope, the impact of the incident, and the extent of the damage caused by the incident.
 Phase 4 â Containment: Containment of the incident is necessary to minimise and isolate the damage incurred by your Company. In section 4.4, some guidelines are provided to help determine the appropriate course of action for limiting the extent of the incident.
-Phase 5 â Eradication: In order to successfully eliminate the incident, the IRT need to determine the cause of the incident that resulted in the compromise of the system."
-38,BCP.txt,"Phase 6 â Recovery: The recovery phase restores operations of the compromised system to facilitate the resumption of normal business operations. Prior to the resumption process, a validation check should be performed to ensure that the system is secured against any repeated incidents. Furthermore, the system should be placed under surveillance to ensure that if the perpetrator returns, unauthorised attempts may be detected early.
+Phase 5 â Eradication: In order to successfully eliminate the incident, the IRT need to determine the cause of the incident that resulted in the compromise of the system. 
+Phase 6 â Recovery: The recovery phase restores operations of the compromised system to facilitate the resumption of normal business operations. Prior to the resumption process, a validation check should be performed to ensure that the system is secured against any repeated incidents. Furthermore, the system should be placed under surveillance to ensure that if the perpetrator returns, unauthorised attempts may be detected early.
 Phase 7 â Follow-up: As a follow-up, you should perform a post-mortem analysis of the compromised system to understand the weaknesses that resulted in the incident and other potential vulnerable areas. In the event that the Company is considering legal action against the perpetrator, it is recommended that forensic specialists and/or law enforcement agencies should be engaged to ensure that digital evidence are accumulated and preserved in a manner that is consistent with the legislative requirements.
 
 Incident Definition
@@ -590,8 +640,11 @@ Modification without the ownerâs knowledge, instruction, or consent.
 
 As an illustration, one of the security requirements in the Xtracap  is to ensure that all vendor-supplied default system passwords should be changed. There are many websites that publish default passwords for many vendor products. One of the websites is http://www.astalavista.com. If an intruder compromises a router using its default password obtained from the above website, an incident has occurred. Using the compromised device, further exploits may be launched against other systems or network devices in the IT infrastructure.
 
-Incident Classification"
-39,BCP.txt,"Incident Severity Level
+Incident Classification 
+
+
+
+Incident Severity Level
 Once classification of the incident has occurred, the severity level of the incident can be determined. The severity level of the incident will dictate the course of actions that should be performed to resolve the incident. The following five severity levels may be assigned to the incident:
 
 
@@ -610,8 +663,11 @@ What are the procedures/actions to be taken?
 How should the procedures/actions be performed?
 
 Preparation
-An Incident Response Team (IRT) is made up of senior management and experienced people â these are immediately made, which are comprises of the stakeholders discussed above or as needed from the organization. The role of the IRT is to promptly handle an incident so that containment, investigation and recovery can quickly occur. The IRT should be empowered by the top management to have decision-making authority for facilitating the incident response process. The needs and resources of the company also play a part in the selection of the team members. Below picture illustrates an overview of the team structure in IRT:"
-40,BCP.txt,"IRT Leader 			: Inderjit Singh Bedi	
+An Incident Response Team (IRT) is made up of senior management and experienced people â these are immediately made, which are comprises of the stakeholders discussed above or as needed from the organization. The role of the IRT is to promptly handle an incident so that containment, investigation and recovery can quickly occur. The IRT should be empowered by the top management to have decision-making authority for facilitating the incident response process. The needs and resources of the company also play a part in the selection of the team members. Below picture illustrates an overview of the team structure in IRT:
+
+
+
+IRT Leader 			: Inderjit Singh Bedi	
 Supervisory Team Leader	: Nitin Verma
 Supervisory Team Member	:Pulkit Dham
 Note: More people may be added as needed.
@@ -640,13 +696,15 @@ Providing logistic and technical support to other IRT teams when required
 Updating public and relevant authorities via commercial press, web sites, telephone and others, and
 Coordinating communications for the company with various external parties, if required.
 
-A leader will be appointed in the IRT as the point of contact in the event of an incident. When an incident is reported by the helpdesk, the leader will be responsible for contacting the relevant sub-teams to handle the incident."
-41,BCP.txt,"When reporting the incident, communication should be made via the telephone, etc. This is to prevent interception of emails by the perpetrator if the computer used for sending the email has been compromised or by a âsnifferâ program that has been planted on the network to capture information sent across the network. Should sensitive electronic media need to be passed to a third party (e.g. listings of account numbers that were leaked) this may be done via secure courier. However the media must be strongly encrypted.
+A leader will be appointed in the IRT as the point of contact in the event of an incident. When an incident is reported by the helpdesk, the leader will be responsible for contacting the relevant sub-teams to handle the incident.
+
+When reporting the incident, communication should be made via the telephone, etc. This is to prevent interception of emails by the perpetrator if the computer used for sending the email has been compromised or by a âsnifferâ program that has been planted on the network to capture information sent across the network. Should sensitive electronic media need to be passed to a third party (e.g. listings of account numbers that were leaked) this may be done via secure courier. However the media must be strongly encrypted.
 Depending on situation, support from other technical teams in the Company (e.g. the network operations, anti-virus team or IT helpdesk) may be required to assist in the incident handling process.
 
 Identification
-The cost of incident response and recovery can be high. When a staff member notices a suspicious anomaly in data, a system, or the network, the IRT must perform investigation and verification, which is time and resource consuming. This activity is at risk if the number of false reports exceeds the number of real incidents that occurred, as it diverts resources away from real incidents. To facilitate the task of identification, the following is a list of typical symptoms of security incidents, which include any or all the following:"
-42,BCP.txt,"A system alarm or similar indication from an intrusion detection tool
+The cost of incident response and recovery can be high. When a staff member notices a suspicious anomaly in data, a system, or the network, the IRT must perform investigation and verification, which is time and resource consuming. This activity is at risk if the number of false reports exceeds the number of real incidents that occurred, as it diverts resources away from real incidents. To facilitate the task of identification, the following is a list of typical symptoms of security incidents, which include any or all the following:
+
+A system alarm or similar indication from an intrusion detection tool
 Suspicious entries in system or network accounting (e.g. a UNIX user obtains root access without going through the normal sequence)
 Accounting discrepancies (e.g. an eighteen-minute gap in the accounting log with no entries)
 Repetitive unsuccessful logon attempts within a short time interval
@@ -663,8 +721,11 @@ Unusual time of usage (e.g. users login during non-working hours)
 An indicated last time of usage of a user account that does not correspond to the actual last time of usage for that user, and
 Unusual usage patterns (e.g. programs are being compiled in the account of a Finance user with no programming background).
 
-Although no single symptom conclusively shows that a security incident is taking place, observing one or more of these symptoms prompts the observer to investigate events more closely. System administrators who encounter one or more of these symptoms should work with the IRT to determine the cause of the incident. Using the above-mentioned categories of incidents as reference, the IRT should validate security incidents on a per case basis before proceeding with the other phases in the framework. All details in the Identification phase should be documented in the Incident Reporting Form."
-43,BCP.txt,"Assessment
+Although no single symptom conclusively shows that a security incident is taking place, observing one or more of these symptoms prompts the observer to investigate events more closely. System administrators who encounter one or more of these symptoms should work with the IRT to determine the cause of the incident. Using the above-mentioned categories of incidents as reference, the IRT should validate security incidents on a per case basis before proceeding with the other phases in the framework. All details in the Identification phase should be documented in the Incident Reporting Form. 
+
+
+
+Assessment
 The next step to be taken by the IRT is to assess the scope, the impact and the magnitude of the incident. As a note of precaution, never power off or reboot a compromised system immediately as this may result in the loss of data, information or evidence required for forensic investigation later. The following are some of the factors to consider during the assessment:
 
 How many computers are affected by this incident?
@@ -678,8 +739,9 @@ How should the assessment be performed effectively?
 Depending on the severity of the situation, top management may have to be informed. Notification guidelines should be developed by the IRT during the preparation of the incident response plan. For âExtremeâ and âHighâ risk incidents, the IRT should escalate them to Visa. The Incident Reporting Form can be used to document the information gathered from the assessment.
 
 Containment
-The objective of the containment phase is for the IRT to regain control of the situation by limiting the extent of the damage. The IRT may consider isolating the compromised system from the rest of the network systems. However, this may disrupt the business operation if the compromised system is critical or many systems were affected by the incident, as in the example of a virus outbreak. Hence, the IRT must evaluate with the management on a per case basis the risk of continuing operations versus regaining control of the compromised system. All attempts to contain the threat must consider every effort to minimize the impact to the business operations."
-44,BCP.txt,"Furthermore, a backup should also be performed on the system to maintain the current state of the system to facilitate the post-mortem and forensic investigation later. The IRT may also consider changing the system passwords to prevent the possibility of Trojan programs being installed on the compromised system that allows the intruder from returning to the system via a backdoor.
+The objective of the containment phase is for the IRT to regain control of the situation by limiting the extent of the damage. The IRT may consider isolating the compromised system from the rest of the network systems. However, this may disrupt the business operation if the compromised system is critical or many systems were affected by the incident, as in the example of a virus outbreak. Hence, the IRT must evaluate with the management on a per case basis the risk of continuing operations versus regaining control of the compromised system. All attempts to contain the threat must consider every effort to minimize the impact to the business operations.
+
+Furthermore, a backup should also be performed on the system to maintain the current state of the system to facilitate the post-mortem and forensic investigation later. The IRT may also consider changing the system passwords to prevent the possibility of Trojan programs being installed on the compromised system that allows the intruder from returning to the system via a backdoor.
 
 Eradication
 After the containment phase, further investigation should be performed to uncover the cause of the incident by analyzing system logs of various devices (e.g., firewall, router, host logs). It is important that the IRT uses a separate set of administrative tools for the investigation and not those in the compromised system. If the perpetrator has modified the system configuration, execution of any system tools may have dire consequences. For example, the intruder may have modified the DOS CMD.EXE application of the compromised system to delete all files in the system rather than to return a command shell.
@@ -692,8 +754,9 @@ Installing anti-virus software, and
 Applying the Companyâs security policy to the system.
 
 Recovery
-Prior to restoring the system from a clean backup, it is recommended that the IRT validate that the eradication procedures have been properly performed. After installing the backup, the system should be monitored in a test environment to determine if it is functioning normally before it can be restored into the business operation."
-45,BCP.txt,"Documentation and Records
+Prior to restoring the system from a clean backup, it is recommended that the IRT validate that the eradication procedures have been properly performed. After installing the backup, the system should be monitored in a test environment to determine if it is functioning normally before it can be restored into the business operation.
+
+Documentation and Records
 All details related to the incident response process should be documented and filed for easy reference. This provides valuable information to unravel the course of events and can serve as evidence if prosecution of intruders is necessary. It is recommended that the following items be maintained:
 
 All system events (audit records)
@@ -706,8 +769,13 @@ The method of discovery
 Preventive measure put in place, and
 Assessment to determine if the recovery step taken is sufficient and what other recommendations need to be considered
 The objective of the report is to identify potential areas of improvement in the incident handling and reporting procedures. Hence, the review of the report by management should be documented, together with the lessons learnt, to improve on the identified areas and used as reference for future incidents."
-46,Business Continuity Policy.txt,Business Continuity Policy
-47,Business Continuity Policy.txt,"Introduction
+10,Business Continuity Policy.txt,"Business Continuity Policy
+
+
+
+
+
+Introduction
 This policy outlines the approach to business continuity management for Xtracap Fintech India Pvt Ltd. The policy applies to all employees, contractors, and any third-party vendors who work with Xtracap Fintech.
 Objectives
 The objectives of this policy are to ensure that:
@@ -736,8 +804,10 @@ The Business Continuity Management Team (BCMT) is responsible for:
 Developing and maintaining the Business Continuity Plan
 Testing and reviewing the Business Continuity Plan on a regular basis
 Ensuring all employees are aware of their roles and responsibilities
-Implementing the Business Continuity Plan in the event of a disruption"
-48,Business Continuity Policy.txt,"4.3 Employees
+Implementing the Business Continuity Plan in the event of a disruption
+
+
+4.3 Employees
 All employees are responsible for:
 Understanding their roles and responsibilities in relation to business continuity
 Cooperating with the BCMT during a disruption
@@ -765,10 +835,11 @@ Testing the emergency response procedures
 Testing the business recovery procedures
 Testing the communication procedures
 Testing the IT recovery procedures
-Testing the off-site backup and recovery procedures"
-49,Business Continuity Policy.txt,"Conclusion
+Testing the off-site backup and recovery procedures
+
+Conclusion
 Xtracap Fintech is committed to maintaining an effective Business Continuity Plan to ensure the continuity of its operations in the event of a disruption. All employees are expected to comply with this policy and participate in regular testing and training. The Business Continuity Plan will be reviewed and updated on a regular basis to ensure its ongoing effectiveness."
-50,Business Continuity.txt,"Business Continuity
+11,Business Continuity.txt,"Business Continuity
 
 Policy Statement 
 Corporate management has approved the following policy statement: 
@@ -786,7 +857,7 @@ The principal objective of the disaster recovery program is to develop, test and
 â¢ The need to ensure that proposed contingency arrangements are cost-effective 
 â¢ The need to consider implications on other company sites 
 â¢ Disaster recovery capabilities as applicable to key customers, vendors and others."
-51,Business Impact Analysis.txt,"Business Impact analysis
+12,Business Impact Analysis.txt,"Business Impact analysis
 
 Purpose: 
 The purpose of this policy is to define the process for conducting a business impact analysis (BIA) to identify critical business processes and prioritize their recovery in the event of a disruption.
@@ -810,10 +881,11 @@ ii. Identification of critical business processes.
 iii. Potential impact of disruptions to critical business processes. 
 iv. RTOs and resource requirements for critical business processes. 
 v. Summary of findings and recommendations. 
-The BIA report will be reviewed and updated at least annually, or as significant changes occur within the organization."
-52,Business Impact Analysis.txt,"Exceptions: a. Any exceptions to this policy must be approved by the IT Director.
+The BIA report will be reviewed and updated at least annually, or as significant changes occur within the organization.
+
+Exceptions: a. Any exceptions to this policy must be approved by the IT Director.
 Enforcement: Failure to comply with this policy may result in disciplinary action, up to and including termination of employment or termination of contract."
-53,BYOD Policy.txt,"Overview
+13,BYOD Policy.txt,"Overview
 Xtracap grants its employees the privilege of purchasing and using Laptop, smartphones and tablets of their choosing at work for their convenience. Xtracap reserves the right to revoke this privilege if users do not abide by the policies and procedures outlined below.
 This policy is intended to protect the security and integrity of Xtracapâs data and technology infrastructure. Limited exceptions to the policy may occur due to variations in devices and platforms.
 Employees must agree to the terms and conditions set forth in this policy in order to be able to connect their devices to the company network.
@@ -831,8 +903,9 @@ Etc.
 The following apps are allowed: (include a detailed list of apps, such as weather, productivity apps, Facebook, etc., which will be permitted)
 Only Preapproved Apps can be Installed, Please check with IT Team for Clarification. 
 Employees may use their device to access the following company-owned resources: email, calendars, contacts, documents, etc.
-Xtracap has a zero-tolerance policy for texting or emailing while driving and only hands-free talking while driving is permitted."
-54,BYOD Policy.txt,"Devices and Support
+Xtracap has a zero-tolerance policy for texting or emailing while driving and only hands-free talking while driving is permitted.
+
+Devices and Support
 Smartphones including iPhone, Android, Blackberry and Windows phones are allowed (the list should be as detailed as necessary including models, operating systems, versions, etc.).
 Tablets including iPad and Android are allowed (the list should be as detailed as necessary including models, operating systems, versions, etc.).
 Connectivity issues are supported by IT; employees should/should not contact the device manufacturer or their carrier for operating system or hardware-related issues.
@@ -847,8 +920,8 @@ After five failed login attempts, the device will lock. Employees must contact I
 Rooted (Android) or jailbroken (iOS) devices are strictly forbidden from accessing the network.
 Employees are automatically prevented from downloading, installing and using any app that does not appear on the companyâs list of approved apps.
 Laptops, Smartphones and tablets that are not on the companyâs list of supported devices are/are not allowed to connect to the network.
-Laptops Smartphones and tablets belonging to employees that are for personal use only are/are not allowed to connect to the network."
-55,BYOD Policy.txt,"Employeesâ access to company data is limited based on user profiles defined by IT and automatically enforced.
+Laptops Smartphones and tablets belonging to employees that are for personal use only are/are not allowed to connect to the network.
+Employeesâ access to company data is limited based on user profiles defined by IT and automatically enforced.
 The employeeâs device may be remotely wiped if 1) the device is lost, 2) the employee terminates his or her employment, 3) IT detects a data or policy breach, a virus or similar threat to the security of the companyâs data and technology infrastructure.
 
 
@@ -860,7 +933,7 @@ The employee is expected to use his or her devices in an ethical manner at all t
 The employee is personally liable for all costs associated with his or her device.
 The employee assumes full liability for risks including, but not limited to, the partial or complete loss of company and personal data due to an operating system crash, errors, bugs, viruses, malware, and/or other software or hardware failures, or programming errors that render the device unusable.
 Xtracap reserves the right to take appropriate disciplinary action up to and including termination for noncompliance with this policy."
-56,Capacity Management Process.txt,"CAPACITY MANAGEMENT PROCESS
+14,Capacity Management Process.txt,"CAPACITY MANAGEMENT PROCESS
 ISO 27001: 2013
 
 XTRACAP FINTECH PRIVATE LIMITED
@@ -871,13 +944,20 @@ XTRACAP FINTECH PRIVATE LIMITED
 Document Summary
 
 
-Document Revision History"
-57,Capacity Management Process.txt,"INTRODUCTION
+Document Revision History
+
+
+
+
+
+
+INTRODUCTION
 2.1 PROCESS OVERVIEW
 The process of capacity planning is shown below.
 
-This process will be used as the basis for capacity management within Xtracap and is described in more detail in the following sections."
-58,Capacity Management Process.txt,"2.2 System Recovery Procedure
+This process will be used as the basis for capacity management within Xtracap and is described in more detail in the following sections.
+
+2.2 System Recovery Procedure
 2.2.1 Forecast Future Capacity Requirements
 The purpose of this step is to capture and understand the changing business requirement for capacity. This may take a number of forms, such as:
 increasing or decreasing use of existing applications by current users
@@ -888,8 +968,8 @@ Such changes may have an effect on a number of areas of infrastructure such as s
 In order to gain as much advance knowledge of such changes as possible, business capacity requirements will be a key area addressed at each service review meeting and will be a standard agenda item. These meetings will be minuted and items affecting capacity management will be fed into the overall capacity plan for Xtracap Fintech India Pvt Ltd.
 2.2.2 Plan to Meet Requirements
 For each identified service provided by Xtracap Fintech India Pvt, an estimate of future capacity adjustments will be made. 
-A capacity plan will be produced on an annual basis which will bring together the future demands on service components from business changes and the current utilisation of resources and identify any areas in which the provision of capacity needs to be adjusted. This may involve the justification of additional hardware such as server upgrades, the recruitment of additional support staff or the installation of higher bandwidth links between sites, amongst other proposals."
-59,Capacity Management Process.txt,"Key to this task will be the understanding of which service components underpin each service and the dependencies between them. For shared resources such as file and print servers and domain controllers for example, the net impact of changes across all business areas must be considered.
+A capacity plan will be produced on an annual basis which will bring together the future demands on service components from business changes and the current utilisation of resources and identify any areas in which the provision of capacity needs to be adjusted. This may involve the justification of additional hardware such as server upgrades, the recruitment of additional support staff or the installation of higher bandwidth links between sites, amongst other proposals.
+Key to this task will be the understanding of which service components underpin each service and the dependencies between them. For shared resources such as file and print servers and domain controllers for example, the net impact of changes across all business areas must be considered.
 Although initially produced on an annual basis, the capacity plan will be subject to amendments as and when significant changes are made to business requirements or to the infrastructure. These amendments will be made under the control of the change management process.
 
 2.2.3 Monitor, Analyse and Report on Resource Usage
@@ -900,8 +980,9 @@ Network utilisation
 Where feasible, this data will be collected continuously and stored for historical reporting purposes. A threshold will be set for key resources (such as disk capacity) so that an alert is generated if that threshold is exceeded, allowing immediate action to be taken.
 The tools that will be used are:
 Shell Scripts
-Jenkins"
-60,Capacity Management Process.txt,"2.2.4 Tune to Make Best Use of Resources
+Jenkins
+
+2.2.4 Tune to Make Best Use of Resources
 In addition to monitoring the actual usage of key resources, regular attention will also be paid to the correct setup and tuning of servers and network devices so that best performance can be obtained from the available resources. 
  This will cover issues such as:
 Memory allocation
@@ -936,14 +1017,17 @@ The table below clarifies the responsibilities at each step using the RACI syste
 
 
 <= END OF DOCUMENT =>"
-61,Cloud Security.txt,"Overview
+15,Cloud Security.txt,"Overview
 Cloud computing offers a number of advantages including low costs, high performance and quick delivery of services. However, without adequate controls, it also exposes individuals and organizations to online threats such as data loss or theft, unauthorized access to corporate networks, and so on
-This cloud computing policy is meant to ensure that cloud services areÂ NOTÂ used without the IT Infra Leadâs knowledge. It is imperative that employeesÂ NOTÂ open cloud services accounts or enter into cloud service contracts for the storage, manipulation or exchange of company-related communications or company-owned data without the IT Infra Leadâs input. This is necessary to protect the integrity and confidentiality of Xtracap data and the security of the corporate network"
-62,Cloud Security.txt,"Purpose
+This cloud computing policy is meant to ensure that cloud services areÂ NOTÂ used without the IT Infra Leadâs knowledge. It is imperative that employeesÂ NOTÂ open cloud services accounts or enter into cloud service contracts for the storage, manipulation or exchange of company-related communications or company-owned data without the IT Infra Leadâs input. This is necessary to protect the integrity and confidentiality of Xtracap data and the security of the corporate network
+
+
+Purpose
 
 The purpose of this policy is to outline the acceptable use of the cloud services offered by Xtracap. Xtracapâs IT department remains committed to enabling employees to do their jobs as efficiently as possible through the use of technology. The following guidelines are intended to establish a process whereby Xtracap employees can use cloud services without jeopardizing company data and computing resourcesof network systems and services, and legal issues. 
-Scope"
-63,Cloud Security.txt,"This policy applies to all employees in all departments of Xtracap exceptions.
+Scope
+
+This policy applies to all employees in all departments of Xtracap exceptions.
 This policy pertains to all external cloud services, e.g. cloud-based email, document storage, Software-as-a-Service (SaaS), Infrastructure-as-a-Service (IaaS), Platform-as-a-Service (PaaS), etc. Personal accounts are excluded.
 If you are not sure whether a service is cloud-based or not, please contact the IT department.
 Policy
@@ -957,7 +1041,7 @@ Personal cloud services accounts may not be used for the storage, manipulation o
 Office 365
 New employees get access to Office 365 by Default when they Join Xtracap, they will be added to the Default Group and their respective Teams.
 It is mandatory for all employees to complete Infosec Training as part of the Induction."
-64,Cyber Security.txt,"Overview
+16,Cyber Security.txt,"Overview
 The risk of data theft, scams, and security breaches can have a detrimental impact on a company's systems, technology infrastructure, and reputation. As a result, Xtracap Fintech has created this policy to help outline the security measures put in place to ensure information remains secure and protected.
 Purpose
 The purpose of this policy is to (a) protect Xtracap data and infrastructure, (b) outline the protocols and guidelines that govern cyber security measures, (c) define the rules for company and personal use, and (d) list the company's disciplinary process for policy violations.
@@ -979,8 +1063,8 @@ Secure all relevant devices before leaving their desk.
 Obtain authorization from the Office Manager and/or Inventory Manager before removing devices from company premises.
 Refrain from sharing private passwords with coworkers, personal acquaintances, senior personnel, and/or shareholders.
 Regularly update devices with the latest security software.
-5.2 Personal Use."
-65,Cyber Security.txt,"Xtracap recognizes that employees may be required to use personal devices to access company systems. In these cases, employees must report this information to management for record-keeping purposes. To ensure company systems are protected, all employees are required to:
+5.2 Personal Use.
+Xtracap recognizes that employees may be required to use personal devices to access company systems. In these cases, employees must report this information to management for record-keeping purposes. To ensure company systems are protected, all employees are required to:
 Ensure all personal devices used to access company-related systems are password protected(minimum of 8 characters).
 Install full-featured antivirus software.
 Regularly upgrade antivirus software.
@@ -1002,9 +1086,10 @@ Obtain the necessary authorization from senior management.
 Verify the recipient of the information and ensure they have the appropriate security measures in place.
 Adhere to Xtracap data protection law andÂ confidentiality agreement.
 Immediately alert the IT department regarding any breaches, malicious software, and/or scams."
-66,Disaster Recover Plan.txt,"Overview
-Since disasters happen so rarely, management often ignores the disaster recovery planning process.  It is important to realize that having a contingency plan in the event of a disaster gives the organization a competitive advantage.   This policy requires management to financially support and diligently attend to disaster contingency planning efforts.  Disasters are not limited to adverse weather conditions.   Any event that could likely cause an extended delay of service should be considered.  The Disaster Recovery Plan is often part of the Business Continuity Plan."
-67,Disaster Recover Plan.txt,"Purpose
+17,Disaster Recover Plan.txt,"Overview
+Since disasters happen so rarely, management often ignores the disaster recovery planning process.  It is important to realize that having a contingency plan in the event of a disaster gives the organization a competitive advantage.   This policy requires management to financially support and diligently attend to disaster contingency planning efforts.  Disasters are not limited to adverse weather conditions.   Any event that could likely cause an extended delay of service should be considered.  The Disaster Recovery Plan is often part of the Business Continuity Plan.
+
+Purpose
 This policy defines the requirement for a baseline disaster recovery plan to be developed and implemented by Xtracap that will describe the process to recover IT Systems, Applications and Data from any type of disaster that causes a major outage. 
 Scope
 This policy is directed to the IT Management Staff who is accountable to ensure the plan is developed, tested and kept up-to-date.  This policy is to highlight the contingencies that may arise in the business and the basic manner to tackle these issues. 
@@ -1015,8 +1100,9 @@ Criticality of Service List: A list of all critical services can be found in the
 Data Backup and Restoration Plan: Data on Production is backed up on a real-time basis on the DR server. Backups of all servers are also automatically downloaded daily to our premises. Weekly backups are maintained offshore with the business. Based on the need of the incident, data recovery will 
 Equipment Replacement Plan: For any equipment replacement place a complaint with the IT Infra Lead. Based on the severity and the need of the equipment, the turn around time to receive the replacement will vary.
 Procedure
-In case of any incident, the Internal IT team consisting of developers and IT Infra Lead will take the appropriate actions to solve the incident and publish a root-cause analysis along with the fixes. The severity of the incident will decide the priority and manpower needed to fix it."
-68,Disaster Recover Plan.txt,"Policy Compliance
+In case of any incident, the Internal IT team consisting of developers and IT Infra Lead will take the appropriate actions to solve the incident and publish a root-cause analysis along with the fixes. The severity of the incident will decide the priority and manpower needed to fix it. 
+
+Policy Compliance
 6.1 Compliance Measurement
 The IT Infra team will verify compliance to this policy through various methods, including but not limited to, periodic walk-thrus, video monitoring, business tool reports, internal and external audits, and feedback to the policy owner. 
 
@@ -1024,7 +1110,7 @@ Exceptions
 Any exception to the policy must be approved by the Infosec Team in advance. 
 Non-Compliance
 An employee found to have violated this policy may be subject to disciplinary action, up to and including termination of employment."
-69,Document.txt,"Information & Cyber Security Policy â done
+18,Document.txt,"Information & Cyber Security Policy â done
 Data Confidentiality and Protection - done
 Access Management - done
 Email Security Policy - done
@@ -1045,8 +1131,11 @@ Software Development Life Cycle Process
 Compliance Management
 Third Party Security
 Security Awareness Session : in 2-4 batches of 2 Hrs"
-70,DR Report_Xtracap - Copy.txt,(Business Continuity Process) BCP and Disaster Recovery (DR) Drill Comprehensive Report
-71,DR Report_Xtracap - Copy.txt,"Executive Summary
+19,DR Report_Xtracap - Copy.txt,"(Business Continuity Process) BCP and Disaster Recovery (DR) Drill Comprehensive Report
+
+
+
+Executive Summary
 
 In today's world, it is important to ensure that the services provided by any company remain available and accessible, even in the event of disasters or outages. 
 
@@ -1067,8 +1156,10 @@ Permissible value for RPO is 24 hrs
 Permissible value for RTO is 2 hrs.
 Last back up was successfully completed at 4:00 AM, 27th April 2023
 
-Recovery Team"
-72,DR Report_Xtracap - Copy.txt,"Execution
+Recovery Team
+
+
+Execution
 Following are the steps taken to initiate, execute, and complete the BCP-DR drill:
 
 Simulating the disaster scenario by shutting down the primary (DC) server.
@@ -1110,8 +1201,11 @@ Additional testing or monitoring to ensure application functionality and analyti
 
 Supporting Evidence
 
-Obtaining Senior management approval."
-73,DR Report_Xtracap - Copy.txt,"Informing the relevant stakeholders.
+Obtaining Senior management approval.
+
+
+
+Informing the relevant stakeholders.
 
 
 
@@ -1180,21 +1274,22 @@ Conclusion
 The DR activity was successfully conducted on 27th April 2023 to minimize the impact of disasters or outages on business operations. The team was successful in testing the ability to recover our critical IT systems and data in the event of a disaster. 
 
 We were able to achieve the specified RTO and RPO for all critical systems, and we have identified areas for improvement to further enhance our DR capabilities. We will continue to refine our DR plan and procedures based on these results to ensure that we are prepared for any potential disaster scenario."
-74,Email Policy.txt,"Overview
+20,Email Policy.txt,"Overview
 Electronic email is pervasively used in almost all industry verticals and is often the primary communication and awareness method within an organization. At the same time, misuse of email can post many legal, privacy and security risks, thus itâs important for users to understand the appropriate use of electronic communications. 
 Purpose
 The purpose of this email policy is to ensure the proper use of Xtracap email system and make users aware of what the  deems as acceptable and unacceptable use of its email system. This policy outlines the minimum requirements for use of email within the company network. 
 Scope
-This policy covers appropriate use of any email sent from email address and applies to all employees, vendors, and agents operating on behalf of ."
-75,Email Policy.txt,"Policy
+This policy covers appropriate use of any email sent from email address and applies to all employees, vendors, and agents operating on behalf of .
+
+Policy
 All use of email must be consistent with the policies and procedures of ethical conduct set, safety, compliance with applicable laws and proper business practices set forth by Xtracap.Â 
 Xtracap email account should be used primarily for the companyâs business-related purposes; personal communication is permitted on a limited basis, but non-company   related commercial uses are prohibited.
 Email should be retained only if it qualifies as a Xtracap business record. Email is a Xtracap business record if there exists a legitimate and ongoing business reason to preserve the information contained in the email.
 The Xtracap email system shall not to be used for the creation or distribution of any disruptive or offensive messages, including offensive comments about race, gender, hair color, disabilities, age, sexual orientation, pornography, religious beliefs and practice, political beliefs, or national origin. Employees who receive any emails with this content from any Xtracap employee should report the matter to their supervisor immediately.
 Users are prohibited from automatically forwarding Xtracap email to a  email system (noted in 4.8 below).  Individual messages which are forwarded by the user must not contain Xtracap confidential or above information. 
 Users are prohibited from using third-party email systems and storage servers such as Google, Yahoo, and MSN Hotmail etc. to conduct Xtracap business, to create or memorialize any binding transactions, or to store or retain email on behalf of Xtracap.Â  Such communications and transactions should be conducted through proper channels using Xtracap - approved documentation.Â 
-Using a reasonable amount of Xtracap resources for personal emails is acceptable, but non- email shall be saved in a separate folder from work related email.  Sending chain letters or joke emails from a Xtracap email account is prohibited."
-76,Email Policy.txt,"Xtracap employees shall have no expectation of privacy in anything they store, send or receive on the companyâs email system. 
+Using a reasonable amount of Xtracap resources for personal emails is acceptable, but non- email shall be saved in a separate folder from work related email.  Sending chain letters or joke emails from a Xtracap email account is prohibited.  
+Xtracap employees shall have no expectation of privacy in anything they store, send or receive on the companyâs email system. 
 Xtracap may monitor messages without prior notice. Xtrcap is not obliged to monitor email messages.
 
 Policy Compliance
@@ -1204,11 +1299,11 @@ Exceptions
 Any exception to the policy must be approved by the Infosec team in advance. 
 Non-Compliance
 An employee found to have violated this policy may be subject to disciplinary action, up to and including termination of employment."
-77,Employee Guidelines_ Xtracap.txt,"Employee Guidelines
+21,Employee Guidelines_ Xtracap.txt,"Employee Guidelines
 
 Xtracap Fintech India Pvt. Ltd."
-78,Employee Guidelines_ Xtracap.txt,TABLE OF CONTENTS
-79,Employee Guidelines_ Xtracap.txt,"SECTION ONE
+22,Employee Guidelines_ Xtracap.txt,TABLE OF CONTENTS
+23,Employee Guidelines_ Xtracap.txt,"SECTION ONE
 
 APPLICABILITY-WHO IS COVERED
 
@@ -1216,8 +1311,10 @@ This Guide applies to all employees on the payrolls of the Company to provide th
 
 SECTION TWO
 
-EMPLOYMENT POLICIES AND PROCEDURES"
-80,Employee Guidelines_ Xtracap.txt,"Employee Orientation
+EMPLOYMENT POLICIES AND PROCEDURES
+
+
+Employee Orientation
 
 An induction briefing is organized by HR on the day of joining of the employee to cover administrative support, facilities and  list  of  documentation  to  be  completed for personnel record.
 
@@ -1231,8 +1328,9 @@ The Company believes that personal files are of generally of a private nature an
 
 The Employee should report to the HR and Admin if there is any change in his/ her name, telephone number, address or emergency  contact  number  information relevant to benefits in  writing.  Any  updates  on  employee qualifications/certifications etc. should also be informed to HR for the purpose of personnel record updates.
 
-General Terms and Conditions of Employment"
-81,Employee Guidelines_ Xtracap.txt,"Your terms and conditions of employment are specified in your offer letter and contract of employment. These may change from time to time  and  you  will  be notified of the same by way of a letter to you individually (e.g. a salary increase) or by way of a notice to all staff (e.g. introduction of paternity  leave  across  the Company).
+General Terms and Conditions of Employment
+
+Your terms and conditions of employment are specified in your offer letter and contract of employment. These may change from time to time  and  you  will  be notified of the same by way of a letter to you individually (e.g. a salary increase) or by way of a notice to all staff (e.g. introduction of paternity  leave  across  the Company).
 
 The purpose of this section is to cover some of the  key  questions  you  may  have about Xtracap terms and conditions.
 
@@ -1256,8 +1354,9 @@ There is a periodical formal process for appraising your performance and plannin
 
 You will not be eligible for a pay review completion  of  minimum  12  months  on board & have been confirmed on the company services.
 
-Training Policy"
-82,Employee Guidelines_ Xtracap.txt,"Training/Development  needs  which  are  required  for  your  job,  or  to  progress  your career (as identified through the Appraisal and Development process) may be delivered by the Company in several ways through external training courses.
+Training Policy
+
+Training/Development  needs  which  are  required  for  your  job,  or  to  progress  your career (as identified through the Appraisal and Development process) may be delivered by the Company in several ways through external training courses.
 
 Transfers and Assignments
 
@@ -1267,8 +1366,10 @@ In response to any internal posting, an Employee desiring to be transferred or r
 SECTION THREE
 
 
-COMPENSATION, WORKING HOURS, AND ATTENDANCE"
-83,Employee Guidelines_ Xtracap.txt,"Salary
+COMPENSATION, WORKING HOURS, AND ATTENDANCE
+
+
+Salary
 
 The Company determines the wages and salaries to be paid to each Employee by considering the duties, responsibilities and skills necessary to the position held by the Employee as well as the needs and financial condition of the Company and the particular qualifications and abilities of the individual.
 
@@ -1294,8 +1395,10 @@ Employee leaving the company will be required to undergo an exit interview with 
 
 The purpose of this is to assist the company to ascertain and analyze the reason for employee turnover.
 
-The company shall appreciate the frank response during the exit discussion with the HR and it does not form part of the decision in future re-employment, if any."
-84,Employee Guidelines_ Xtracap.txt,"SECTION FOUR
+The company shall appreciate the frank response during the exit discussion with the HR and it does not form part of the decision in future re-employment, if any.
+
+
+SECTION FOUR
 
 EMPLOYEE BENEFITS
 
@@ -1314,8 +1417,9 @@ Eligibility
 Employees will be entitled to Earned Leaves, Sick Leaves and Casual leaves during the calendar year (January to December):
 After completion of 12 months of services,  employees  will  be  eligible  for Earned Leaves
 The employee should be a confirmed employee
-Sick leaves will be granted only after 6 months of service. Before this period all leaves will be treated as Leave Without Pay, except for Covid related sicl leave"
-85,Employee Guidelines_ Xtracap.txt,"Casual Leaves will be granted at the beginning of every year.
+Sick leaves will be granted only after 6 months of service. Before this period all leaves will be treated as Leave Without Pay, except for Covid related sicl leave
+
+Casual Leaves will be granted at the beginning of every year.
 You shall be entitled to leave as per the Company rules. As per current policy, your casual leave entitlement in a full year will be 10 days plus 15 days earned leave.
 The holiday year runs from 1st Jan â 31st December. It should be noted that leave not taken in the holiday year cannot be encashed or carried forward in to the next holiday year.
 Casual leave of more than 2 days will not be sanctioned in continuation. Leave entitlement is credited to your account on accrual basis; any non-sanctioned or excess leave will cause loss of proportionate salary.
@@ -1324,8 +1428,9 @@ In  addition  to  this,  you  will  also  be  entitled  to  9  bank/public  holi
 Should you remain absent from work, without any reasonable explanation, for more than 5 consecutive days, it will be presumed that you are no longer interested in working for the company and have abandoned its service, thereby terminating your contract of service. In such as case, you will not be entitled to any statutory compensation.
 The leave cannot be accrued and taken forward into the next year.  The employees are encouraged to take leave due in the calendar year
 
-Leave during Probation Period"
-86,Employee Guidelines_ Xtracap.txt,"Within the first 6-month of probation period, earned leave is accrued but cannot be availed. No leave is permissible during probation and hence any leave during this period is leave without pay (LWP). Leave required for any exigency during above stated period shall be discussed and approved by the Manager. Only in case of an emergency or unavoidable circumstances, if an employee need to avail a leave during the probation period, it first need to be discussed & agreed with the manger.
+Leave during Probation Period
+
+Within the first 6-month of probation period, earned leave is accrued but cannot be availed. No leave is permissible during probation and hence any leave during this period is leave without pay (LWP). Leave required for any exigency during above stated period shall be discussed and approved by the Manager. Only in case of an emergency or unavoidable circumstances, if an employee need to avail a leave during the probation period, it first need to be discussed & agreed with the manger.
 
 Earned / Annual Leave  (EL)
 Every employee who has been in continuous employment of the company for a period of 12 months shall be eligible for 15 working days annual  leave. Leaves shall be credited on a yearly basis.
@@ -1335,8 +1440,9 @@ Every application for earned leave shall be made in writing and in case of leave
 leave for three days or less shall ordinarily be made at least twenty four hours before the date from which leave is required.
 At the time of Separation, all un-utilized Earned Leaves will be encashed and
 / or may also be adjusted against shortfall in the notice period, if any.
-Encashment of Earned Leaves will be done according to Gross Salary of an employee."
-87,Employee Guidelines_ Xtracap.txt,"Sick Leave (SL)
+Encashment of Earned Leaves will be done according to Gross Salary of an employee.
+
+Sick Leave (SL)
 Every employee who has been in continuous employment of the compnay for a period of six months or over shall be eligible for 15 days SL in any  one calendar year.
 SL can be availed for 1 or more days at a stretch. If an employee is on sick leave for 3 or more days in continuation, a Doctorâs fitness / medial certificate in original would be required to be submitted immediately on the day of re- joining the office. In case the employee fails to provide a fitness certificate / if the certificate will be proven fake, his leaves would be treated as Earned Leave.
 If an employee avails Sick leave immediately before / after Casual Leave, Earned Leave or Compensatory Leave even for one or two days, employee will have to provide Doctorâs fitness / medical certificate. If certificate is not provided by an employee, his Sick leaves will be treated as Earned Leave. On submission of fake fitness certificate, disciplinary action may be taken against that employee.
@@ -1346,11 +1452,14 @@ Sick Leaves cannot be combined with Casual Leaves / Compensatory Leaves.
 Sick Leave cannot be accrued, encashed or carried forward for next calendar year.
 Maternity Leave
 
-The Maternity Benefit Act of 1961 was enacted by the Government of India with the purpose of regulating the employment of Women for certain periods before and after childbirth and to provide for maternity benefit. Given below are some guidelines that will help female employees to be familiar with the process of availing the benefit she is entitled to under the Act."
-88,Employee Guidelines_ Xtracap.txt,"Duration: Maternity Leave with full pay shall be allowed for a maximum period of 06 Months (180 days), of which not more than six weeks shall precede the date of expected delivery. No earned leave will get accrued during the entire duration of the maternity leave. Weekly holidays intervening the period of maternity leave shall be counted as part of the 12 weeks.
+The Maternity Benefit Act of 1961 was enacted by the Government of India with the purpose of regulating the employment of Women for certain periods before and after childbirth and to provide for maternity benefit. Given below are some guidelines that will help female employees to be familiar with the process of availing the benefit she is entitled to under the Act.
 
-Conditions:   A female employee, who has availed maternity leave with full pay, shall forfeit her claim to such pay if she works in any establishment during her maternity leave."
-89,Employee Guidelines_ Xtracap.txt,"Paternity Leave
+Duration: Maternity Leave with full pay shall be allowed for a maximum period of 06 Months (180 days), of which not more than six weeks shall precede the date of expected delivery. No earned leave will get accrued during the entire duration of the maternity leave. Weekly holidays intervening the period of maternity leave shall be counted as part of the 12 weeks.
+
+Conditions:   A female employee, who has availed maternity leave with full pay, shall forfeit her claim to such pay if she works in any establishment during her maternity leave.
+
+
+Paternity Leave
 
 Xtracap would like you to share your joyous moments with your family and friends when you become a father. In view of this, over and above privilege leave, you can avail fully paid Paternity Leave for three working days within one week from the date you become a father.
 Paternity Leave (PL) is maximum of 3 working days. E.g. if a childâs birth occurs on Wednesday, the entitlement is Wednesday, Thursday and Friday. If birth is on Thursday, the entitlement is Thursday, Friday and Monday.
@@ -1370,8 +1479,10 @@ Short duration leave of upto 2 Hours in  a  day  will  be  marked  as  Short- Le
 
 Local Conveyance
 
-If you use your own vehicle for official work, then you may claim reimbursement as per the table given below for more details refer to the travel reimbursement policy"
-90,Employee Guidelines_ Xtracap.txt,"SECTION FIVE
+If you use your own vehicle for official work, then you may claim reimbursement as per the table given below for more details refer to the travel reimbursement policy
+
+
+SECTION FIVE
 
 EQUAL OPPORTUNITIES POLICY AND ITS APPLICATION
 
@@ -1390,7 +1501,7 @@ Internal vacancies are announced over email and are open for all employees to ap
 SECTION SIX
 
 OTHER PERSONNEL POLICIES"
-91,Employee Guidelines_ Xtracap.txt,"Code of Ethics and Conduct
+24,Employee Guidelines_ Xtracap.txt,"Code of Ethics and Conduct
 
 Employees are required to abide by the rules and policies set forth in the Guidelines. The code addresses issues pertaining to among other things, the use of Company property, conflicts of interest, relationship with vendors, gratuities, confidentiality and maintenance of accurate accounts and records, access to benefits, employment practices and public relations and the duty of Employee to co- operate in investigations.
 
@@ -1406,8 +1517,9 @@ How will the policy be monitored?
 
 As with all other Xtracap policies, under your contract of employment you agree to comply with the casual dress policy. Should your attire be regarded as inappropriate by your manager, he/she will let you know and reserves the right to require you to take unpaid leave to go home and change. Continued misuse of the policy may result in the benefit of casual dress being withdrawn on either an individual or collective basis.
 
-Disciplinary Procedure"
-92,Employee Guidelines_ Xtracap.txt,"In order to ensure efficiency and good discipline within the Company, it is essential that all employees should comply with reasonable and acceptable standards  of conduct and work performance. Disciplinary regulations are laid down with the objective of protecting the interest of the Company and the  Employees.  The employees are expected to observe all Company regulations and policies and
+Disciplinary Procedure
+
+In order to ensure efficiency and good discipline within the Company, it is essential that all employees should comply with reasonable and acceptable standards  of conduct and work performance. Disciplinary regulations are laid down with the objective of protecting the interest of the Company and the  Employees.  The employees are expected to observe all Company regulations and policies and
 
 violation of them may result in disciplinary action. The level of disciplinary action depends on the gravity of the offense and the verdict of the Managing Director is final. The intent of disciplinary action is not to punish, but to motivate the employee to positively change his / her behaviour.
 
@@ -1435,8 +1547,9 @@ Habitually neglect in the duties.
 
 Disciplinary action will normally be taken in the following progressive steps which is however not a necessary sequence subject to seriousness of the case.
 
-Verbal Warning"
-93,Employee Guidelines_ Xtracap.txt,"An employee who has committed a minor offense on the first occasion will be verbally warned by his / her immediate supervisor. If the offense is committed on the second occasion, the verbal swarning will be administered by the Human Resources Head. If such a situation arises, the matter has already reached a stage of considerable gravity. All verbal warnings will be duly recorded on his/her personal file.
+Verbal Warning
+
+An employee who has committed a minor offense on the first occasion will be verbally warned by his / her immediate supervisor. If the offense is committed on the second occasion, the verbal swarning will be administered by the Human Resources Head. If such a situation arises, the matter has already reached a stage of considerable gravity. All verbal warnings will be duly recorded on his/her personal file.
 
 Written Warning
 
@@ -1450,8 +1563,9 @@ Demotion
 
 The Company may demote you  by  notice  in  writing,  including  details  of  any changes to your terms and conditions of employment arising from such demotion. In particular, the notice will give details of any reduction to your salary and/or loss of benefits and/or privileges consequent upon such demotion.
 
-Exclusion from Bonus Schemes"
-94,Employee Guidelines_ Xtracap.txt,"The Company may exclude you from participating in any Company Bonus Scheme (as detailed in your Contract of Employment and the âCompany Schemesâ section of the employee guide) by notice in writing to this effect. Such notice will specify the period of your exclusion from participation in a particular bonus scheme.
+Exclusion from Bonus Schemes
+
+The Company may exclude you from participating in any Company Bonus Scheme (as detailed in your Contract of Employment and the âCompany Schemesâ section of the employee guide) by notice in writing to this effect. Such notice will specify the period of your exclusion from participation in a particular bonus scheme.
 
 Anti-Harassment Policy
 
@@ -1466,8 +1580,9 @@ Procedure
 
 If you receive unwanted behaviour you should report it to your Line Manager/HR. Your complaint will be dealt seriously, promptly and in confidence.
 
-If you make a complaint, or if you have had a complaint made against you and you are dissatisfied with the treatment under this Policy, you should make your complaint in writing to your Line Manager/HR. Again, your complaint will be dealt seriously, promptly and in confidence."
-95,Employee Guidelines_ Xtracap.txt,"Grievance Procedure
+If you make a complaint, or if you have had a complaint made against you and you are dissatisfied with the treatment under this Policy, you should make your complaint in writing to your Line Manager/HR. Again, your complaint will be dealt seriously, promptly and in confidence.
+
+Grievance Procedure
 
 If you have any grievance relating to your employment, you should first raise it informally with your Line Manager. Wherever possible, we would prefer you to resolve things this way. If, however, you cannot resolve it informally, you should put your grievance in writing and submit it to your Manager.
 
@@ -1478,8 +1593,10 @@ If his decision is not acceptable to you, you may then appeal in writing to the 
 
 SECTION SEVEN
 
-HEALTH AND SAFETY POLICY AND PROCEDURES"
-96,Employee Guidelines_ Xtracap.txt,"Safety Rules and Practice
+HEALTH AND SAFETY POLICY AND PROCEDURES
+
+
+Safety Rules and Practice
 
 The Policy
 
@@ -1515,8 +1632,9 @@ Alcohol Policy
 
 The aim of this Policy is to make clear the rules about drinking during work time.
 
-Drinking alcohol on the premises is not permitted. The  exception  is  for specific Company organized events where alcohol may be served."
-97,Employee Guidelines_ Xtracap.txt,"Drinking alcohol prior to work and off-site during work time (e.g. at lunchtime) is not permitted because of the possible effects on safety and work performance. Employees should not go to pubs at lunchtime, nor should they take clients to pubs at lunchtime. In cases where accidents or poor performance are shown to be caused by drinking alcohol, disciplinary action will be taken.
+Drinking alcohol on the premises is not permitted. The  exception  is  for specific Company organized events where alcohol may be served.
+
+Drinking alcohol prior to work and off-site during work time (e.g. at lunchtime) is not permitted because of the possible effects on safety and work performance. Employees should not go to pubs at lunchtime, nor should they take clients to pubs at lunchtime. In cases where accidents or poor performance are shown to be caused by drinking alcohol, disciplinary action will be taken.
 
 You should not drink alcohol if you are driving on Company business. Any positive breath alyzer test or accident caused by the effects of alcohol whilst on Company business will result in disciplinary action. If you wish to seek help with a problem related to alcohol, please approach the Admin team who will be able to provide you with information including the contact numbers of relevant helping organizations.
 
@@ -1534,8 +1652,9 @@ Solvents
 Cleaning fluids
 Polishes
 
-Any employee who takes illegal drugs or misuses other substances outside of work and who subsequently endangers others at work or provides sub- standard  work  caused  by  such  use/misuse  may  be  dealt  with  under  the Disciplinary Procedure. This may include dismissal, without notice, for gross misconduct. Alternatively, and depending upon the  circumstances  of  each case, the Company may offer support for counselling and treatment."
-98,Employee Guidelines_ Xtracap.txt,"If you are taking prescription drugs as recommended by your Doctor, you should inform your Manager if your work performance or behaviour might be affected (in case you put  yourself  or others at  risk).  A temporary transfer to alternative work (e.g. working inside the office instead  of  visiting customers) may be possible.
+Any employee who takes illegal drugs or misuses other substances outside of work and who subsequently endangers others at work or provides sub- standard  work  caused  by  such  use/misuse  may  be  dealt  with  under  the Disciplinary Procedure. This may include dismissal, without notice, for gross misconduct. Alternatively, and depending upon the  circumstances  of  each case, the Company may offer support for counselling and treatment.
+
+If you are taking prescription drugs as recommended by your Doctor, you should inform your Manager if your work performance or behaviour might be affected (in case you put  yourself  or others at  risk).  A temporary transfer to alternative work (e.g. working inside the office instead  of  visiting customers) may be possible.
 
 The Admin has a list of helping organizations if you want to talk to them in confidence.
 
@@ -1550,7 +1669,7 @@ Emergency Contact
 Please make sure your Line Manager, HR and admin has the name and telephone number of the person you want to contact in case anything happens to you whilst at work.
 
 Please provide your contact number to your line manager before you  proceed  on leave / vacation."
-99,Incident Management.txt,"1Â Policy Statement
+25,Incident Management.txt,"1Â Policy Statement
 Incident Management policy shall enable response to a major incident or disaster by implementing a plan to restore the critical business functions of Xtracap Fintech. The number of computer security incidents and the resulting cost of business disruption and service restoration rise with increase in dependence on IT-enabled processes. Implementation of sound security policies, blocking of unnecessary access to networks and computers, improvement in user security awareness, and early detection and mitigation of security incidents are some of the actions that can be taken to reduce such risks and decrease the cost of security incidents.
 2 Purpose
 The purpose of the incident management policy is to provide organization-wide guidance to employees on proper response to, and efficient and timely reporting of, computer security related incidents, such as computer viruses, unauthorized user activity, and suspected compromise of data. It also addresses non-IT incidents such as power failure. Further, this policy provides guidance regarding the need for developing and maintaining an incident management process within Xtracap Fintech.
@@ -1561,8 +1680,8 @@ This policy applies to allÂ  Employees, Contractors, and Third Party Employees
 The documentation shall consist of Incident Management Policy, and related procedures.
 3.3 Document Control
 The Incident Management Policy document and all other referenced documents shall be controlled. Version control shall be to preserve the latest release and the previous version of any document. However, the previous version of the documents shall be retained only for a period of two years for legal and knowledge preservation purpose.
-3.4 Records"
-100,Incident Management.txt,"Records being generated as part of the Incident Management Policy shall be retained for a period of two years. Records shall be in hard copy or electronic media. The records shall be owned by the respective system administrators and shall be audited once a year.
+3.4 Records
+Records being generated as part of the Incident Management Policy shall be retained for a period of two years. Records shall be in hard copy or electronic media. The records shall be owned by the respective system administrators and shall be audited once a year.
 3.5 Distribution and Maintenance
 The Incident Management Policy document shall be made available to all the employees covered in the scope. All the changes and new releases of this document shall be made available to the persons concerned. The maintenance responsibility of the document shall be with the CISO and system administrators.
 4 Privacy
@@ -1573,8 +1692,8 @@ The Incident Management Policy shall be implemented by the CISO / designated per
 The organizational management shall ensure that:
 Incidents are detected as soon as possible and properly reported.
 Incidents are handled by appropriate authorized personnel with âskilledâ backup as required.
-Incidents are properly recorded and documented."
-101,Incident Management.txt,"All evidence is gathered, recorded and maintained in the Security Incident Reporting form that will withstand internal and external scrutiny.
+Incidents are properly recorded and documented.
+All evidence is gathered, recorded and maintained in the Security Incident Reporting form that will withstand internal and external scrutiny.
 The full extent and implications relating to an incident are understood.
 Incidents are dealt with in a timely manner and service(s) restored as soon as possible.
 Similar incidents will not recur.
@@ -1586,21 +1705,21 @@ The policy shall apply throughout the organization, including information resour
 7. Implementation
 This shall develop, maintain and implement an incident management and response plan that addresses information technology security incidents. The following paragraphs specify the incident management plan requirements. These requirements shall be in compliance with relevant State and policies and standards.
 Incident Management Training:Â This shall provide incident management training to the Divisions/Offices on how to identify and report security incidents.
-Identifying and Prioritizing Types of Incidents:Â This will develop and maintain guidelines for identifying and prioritizing security incidents. The Divisions/Offices or their affiliated staff designated by agreement or assignment shall evaluate the potential for the occurrence of certain types of incidents. All security incidents shall be classified by severity level and type. The following five event severity levels as defined in the ITS Incident Response Standard shall be used for classification purposes. In addition, each incident shall be identified as to type: email, hacking, virus/worm, inappropriate use, social engineering and other."
-102,Incident Management.txt,"Incident Monitoring:Â TheÂ CISO shall develop and maintain guidelines on how to monitor for security incidents. TheÂ Divisions/Offices or their affiliated staff designated by agreement or assignment, as part of their risk management program, shall continuously monitor for security incidents (both physical and ITS â related incidents) according to the guidelines listed above.
-Incident Detection:Â The CISO shall develop and maintain enterprise-wide procedures for collecting, analyzing and reporting data. The integrity of all data relating to criminal acts must be preserved as possible evidence and will be collected using generally accepted forensic procedures. The forensic procedures to be followed will be developed and disseminated by the CISO."
-103,Incident Management.txt,"Incident Reporting:Â The CISO shall define the basic procedure to be followed for reporting incidents. The procedure shall be expanded upon by the Divisions/Offices as necessary to include the internal communications and escalation procedures that will be used.Â  Security incidents classified as level 3, or 4 shall be reported to the CISO and the division/office information security official within a period of 24 hours from the time the incident was discovered. The CISO is responsible for reporting the incidents to ITS and the Assistant Secretary for the OPP and Compliance within 24 hours of receiving the report. The Assistant Secretary for OPP and Compliance will be responsible for letting appropriate departmental staff know about the issue. The division should not report directly to ITS, as it could result in duplicate incidents being reported. A manual form may be completed and forwarded to the division/office information security official for processing. An incident reporting template is Available with the CISO and IT Manager. Reporting of security instances classified as level 2 or greater should be reported, at a minimum, to the division/office security official. Division/office specific procedures may require all levels of security incidents to be reported to the CISO. If there is a question regarding classification level, the division/office security official should consult with the CISO."
-104,Incident Management.txt,"Security Incident Response Team (SIRT):Â The CISO shall establish and utilize an SIRT. The CISO will work with the Divisions/Offices to develop a cross-functional incident response team that will handle a variety of incidents. The roles and responsibilities of the team members will be clearly defined.Â  The SIRT shall be adequately staffed and trained to handle the incident(s). Since incidents may be far-reaching, requiring expertise or authority that does not reside within a division/office, the SIRT may include outsourced vendors, internal and external entities, as well as other key facility/agency personnel.
+Identifying and Prioritizing Types of Incidents:Â This will develop and maintain guidelines for identifying and prioritizing security incidents. The Divisions/Offices or their affiliated staff designated by agreement or assignment shall evaluate the potential for the occurrence of certain types of incidents. All security incidents shall be classified by severity level and type. The following five event severity levels as defined in the ITS Incident Response Standard shall be used for classification purposes. In addition, each incident shall be identified as to type: email, hacking, virus/worm, inappropriate use, social engineering and other.
+Incident Monitoring:Â TheÂ CISO shall develop and maintain guidelines on how to monitor for security incidents. TheÂ Divisions/Offices or their affiliated staff designated by agreement or assignment, as part of their risk management program, shall continuously monitor for security incidents (both physical and ITS â related incidents) according to the guidelines listed above.
+Incident Detection:Â The CISO shall develop and maintain enterprise-wide procedures for collecting, analyzing and reporting data. The integrity of all data relating to criminal acts must be preserved as possible evidence and will be collected using generally accepted forensic procedures. The forensic procedures to be followed will be developed and disseminated by the CISO.
+Incident Reporting:Â The CISO shall define the basic procedure to be followed for reporting incidents. The procedure shall be expanded upon by the Divisions/Offices as necessary to include the internal communications and escalation procedures that will be used.Â  Security incidents classified as level 3, or 4 shall be reported to the CISO and the division/office information security official within a period of 24 hours from the time the incident was discovered. The CISO is responsible for reporting the incidents to ITS and the Assistant Secretary for the OPP and Compliance within 24 hours of receiving the report. The Assistant Secretary for OPP and Compliance will be responsible for letting appropriate departmental staff know about the issue. The division should not report directly to ITS, as it could result in duplicate incidents being reported. A manual form may be completed and forwarded to the division/office information security official for processing. An incident reporting template is Available with the CISO and IT Manager. Reporting of security instances classified as level 2 or greater should be reported, at a minimum, to the division/office security official. Division/office specific procedures may require all levels of security incidents to be reported to the CISO. If there is a question regarding classification level, the division/office security official should consult with the CISO.
+Security Incident Response Team (SIRT):Â The CISO shall establish and utilize an SIRT. The CISO will work with the Divisions/Offices to develop a cross-functional incident response team that will handle a variety of incidents. The roles and responsibilities of the team members will be clearly defined.Â  The SIRT shall be adequately staffed and trained to handle the incident(s). Since incidents may be far-reaching, requiring expertise or authority that does not reside within a division/office, the SIRT may include outsourced vendors, internal and external entities, as well as other key facility/agency personnel.
 Organization Protocols:Â Security incidents may occur across network boundaries. The CISO shall define the protocols for handling these incidents and the contacts between Divisions/Offices, state agencies and outsourced entities.
 Impact Assessment:Â The CISO shall evaluate the impact of security incidents. Assessments may be required at various stages of the incident life cycle to assist management in deploying the proper risk management strategy.
 Incident Handling and Escalation Procedures:Â The CISO shall develop and maintain the primary procedures for handling the containment, eradication and recovery aspects of incidents and the guidelines for development of an escalation procedure. The Divisions/Offices shall develop escalation procedures that are tailored to their individual circumstances.
-Documentation:Â All security incidents shall be thoroughly documented by the Divisions/Offices with as much detail as possible to describe the incident, time discovered and impacted area for subsequent investigation. The incident report shall indicate who was notified and what actions were taken. The CISO may be called on to assist in the documentation process."
-105,Incident Management.txt,"Record Retention:Â Divisions/Offices shall maintain the incident logs and corresponding documentation for a minimum of one year following the discovery of an incident or until an investigation is completed. Incident logs should be stored in a secure location.
+Documentation:Â All security incidents shall be thoroughly documented by the Divisions/Offices with as much detail as possible to describe the incident, time discovered and impacted area for subsequent investigation. The incident report shall indicate who was notified and what actions were taken. The CISO may be called on to assist in the documentation process.
+Record Retention:Â Divisions/Offices shall maintain the incident logs and corresponding documentation for a minimum of one year following the discovery of an incident or until an investigation is completed. Incident logs should be stored in a secure location.
 Post-Incident Analysis:Â The post-mortem analysis provides feedback to improve the existing process and its related procedures. Following actions taken to resolve each security incident, an analysis shall be performed by the CISO and the impacted division or office, with assistance of their affiliated staff designated by agreement or assignment, to evaluate the procedures taken and what further steps could have been taken to minimize the impact of the incident.
 Emergency Planning:Â If an incident occurs that impacts the safety of citizens, personnel, facilities or results in a situation where agency services are interrupted for an extended period of time, the incident may be declared an emergency. The KDCCCISO shall work with the Disaster Response Team to provide guidelines regarding the criteria for identifying an emergency and notification procedures. The Divisions/Offices shall develop the appropriate procedures for identifying and declaring emergencies using the established Business Continuity and Disaster Recovery Policy.
 Media Relations:Â Serious security incidents that are likely to result in media attention shall be reported immediately to the Department of Public Affairs Office.
 8. Incident Management SLA"
-106,Information Classification.txt,"Policy Statement
+26,Information Classification.txt,"Policy Statement
 To meet the enterprise business objectives and ensure continuity of its operations, XTRACAP shall adopt and follow well-defined and time-tested plans and procedures, to ensure that sensitive information is classified correctly and handled as per organizational policies. Information is considered as primary asset of an organization. An organization uses different types of information assets. The sensitivity of these information assets may vary and similarly, their handling mechanisms are also different.
 2. Purpose
 The purpose of this policy is to ensure personal information and confidential information is protected from unauthorized use and disclosure. This policy helps to facilitate the identification of information to support routine disclosure and active dissemination of information. It also helps to protect the intellectual property of XTRACAP.
@@ -1615,8 +1734,8 @@ The policy documentation shall consist of Information Classification and Handlin
 The Information Classification and Handling Policy document and all other referenced documents shall be controlled. Version control shall be to preserve the latest release and the previous version of any document. However, the previous version of the documents shall be retained only for a period of two years for legal and knowledge preservation purpose.
 3.5 Records
 Records being generated as part of the Information Classification and Handling Policy shall be retained for a period of two years. Records shall be in hard copy or electronic media. The records shall be owned by the respective system administrators and shall be audited once a year.
-3.6 Distribution and Maintenance"
-107,Information Classification.txt,"The Information Classification and Handling Policy document shall be made available to all the employees covered in the scope. All the changes and new releases of this document shall be made available to the persons concerned. The maintenance responsibility of this document shall be with the CISO and website administrator.
+3.6 Distribution and Maintenance
+The Information Classification and Handling Policy document shall be made available to all the employees covered in the scope. All the changes and new releases of this document shall be made available to the persons concerned. The maintenance responsibility of this document shall be with the CISO and website administrator.
 4. Privacy
 The Information Classification and Handling Policy document shall be considered as âconfidentialâ and shall be made available to the concerned persons with proper access control. Subsequent changes and versions of this document shall be controlled.
 5. Responsibility
@@ -1628,8 +1747,8 @@ Restricted â The information assets that contain data pertaining to the nee
 Internal â The information assets which can be distributed within all offices of XTRACAP belong to this category. Examples are office orders and internal circulars.
 Public â The information assets which do not have any confidentiality requirement and / or can be disseminated to the general public belong to this category. Examples include annual financial report of XTRACAP and information displayed on XTRACAPâs website.
 Following are the policies for secure handling of information assets of XTRACAP:
-Handling and labeling of all media shall be according to its indicated classification level."
-108,Information Classification.txt,"Depending on the classification of information, electronic transmission, copying and distribution of copies of such information, shall require prior approval of CISO / DGM / GM / CEO, as applicable.
+Handling and labeling of all media shall be according to its indicated classification level.
+Depending on the classification of information, electronic transmission, copying and distribution of copies of such information, shall require prior approval of CISO / DGM / GM / CEO, as applicable.
 Mailing and/or shipment of confidential information shall require that information be sent through a reputed mail service / courier with proper authentication.
 Confidential information shall be stored with proper security and / or in safe lockers.
 Disposition of confidential and Project / Process / Department specific information shall require shredding in the presence of CISO / DGM / GM / CEO / Process In-charge, as applicable.
@@ -1643,7 +1762,7 @@ Distribution of data shall be based on âneed to knowâ and âneed t
 Distribution lists and lists of authorized recipients shall be reviewed at regular intervals.
 7. Enforcement
 Any employee found to have violated this policy may be subjected to disciplinary action in line with the HR Policy / Staff Regulation Act of XTRACAP."
-109,Information Security Policy.txt,"1	Introduction  
+27,Information Security Policy.txt,"1	Introduction  
 Information is the critical aspect for any organizationâs existence and growth. It is of utmost importance that the policy is defined at organizational level to establish the need to secure information and information processing facilities. Access to information, information processing facilities, and business processes should be controlled on the basis of business and security requirements.
 
 2	Objective
@@ -1653,8 +1772,9 @@ The purpose of this Policy is to prevent unauthorized access to operating system
 The scope of this Policy includes all XTRACAP employees. Each employee is responsible for carrying out his or her responsibilities under this Policy.
 
 4	Enforcement
-Violations of this Policy include, but are not limited to: accessing information and information processing facilities which the individual has no legitimate access to; enabling unauthorized individuals to access the information; disclosing information in a way which violates applicable policy, Policy or other relevant regulations or laws; or inappropriately modifying or destroying information. Violations may result in access revocation, corrective action up to and including dismissal, and/or civil or criminal prosecution under applicable law."
-110,Information Security Policy.txt,"5	Policy 
+Violations of this Policy include, but are not limited to: accessing information and information processing facilities which the individual has no legitimate access to; enabling unauthorized individuals to access the information; disclosing information in a way which violates applicable policy, Policy or other relevant regulations or laws; or inappropriately modifying or destroying information. Violations may result in access revocation, corrective action up to and including dismissal, and/or civil or criminal prosecution under applicable law.
+
+5	Policy 
 It is the responsibility of Staff to protect information from unauthorized change, destruction or disclosure.
 You need to complete Xtracapâs security awareness training and agree to uphold the acceptable use policy. 
 If you identify an unknown, un-escorted or otherwise unauthorized individual in Xtracap you need to immediately notify the CISO. 
@@ -1666,13 +1786,13 @@ Terminated employees will be required to return all records, in any format, cont
 You must immediately notify the IT Infra team in the event that a device containing in scope data is lost (e.g. mobiles, laptops etc). 
 In the event that you find a system or process which you suspect is not compliant with this policy or the objective of information security you have a duty to inform the IT Infra team so that they can take appropriate action. 
 If you have been assigned the ability to work remotely you must take extra precaution to ensure that data is appropriately handled. Seek guidance from the IT Infra Lead if you are unsure as to your responsibilities. 
-Please ensure that assets holding data in scope are not left unduly exposed, for example visible in the back seat of your car."
-111,Information Security Policy.txt,"Data that must be moved within Xtracap is to be transferred only via business provided secure transfer mechanisms (e.g. encrypted USB keys, file shares, email etc). Xtracap will provide you with systems or devices that fit this purpose. You must not use other mechanisms to handle in scope data. 
+Please ensure that assets holding data in scope are not left unduly exposed, for example visible in the back seat of your car. 
+Data that must be moved within Xtracap is to be transferred only via business provided secure transfer mechanisms (e.g. encrypted USB keys, file shares, email etc). Xtracap will provide you with systems or devices that fit this purpose. You must not use other mechanisms to handle in scope data. 
 Any information being transferred on a portable device (e.g. USB stick, laptop) must be encrypted in line with industry best practices and applicable law and regulations. If there is doubt regarding the requirements, seek guidance from the IT Infra Lead.
 You must allow all Anti-Virus updates on your laptop and must not uninstall the software from your workstations. Any interference in the function of the anti-virus will result in strict action taken against you. 
 Xtracap will never use any Obsolete Software / Hardware
 The mobile app updates once deployed are mandatory thus ensuring that no one uses the obsolete app."
-112,Logging and Monitoring Policy.txt,"LOGGING AND MONITORING POLICY
+28,Logging and Monitoring Policy.txt,"LOGGING AND MONITORING POLICY
 ISO 27001: 2013
 
 XTRACAP FINTECH PRIVATE LIMITED
@@ -1682,8 +1802,13 @@ XTRACAP FINTECH PRIVATE LIMITED
 Document Summary
 
 
-Document Revision History"
-113,Logging and Monitoring Policy.txt,"PURPOSE
+Document Revision History
+
+
+
+
+
+PURPOSE
 The objective of this policy is to ensure that XTRACAP FINTECH PRIVATE LIMITED detects unauthorised activity, ensure that critical systems are monitored and information security events are recorded.
 SCOPE
 This policy covers all information and associated IT infrastructure within XTRACAP FINTECH PRIVATE LIMITED.
@@ -1696,8 +1821,9 @@ e.g. for API: fintech-api.log file will be created under api-logs folder
 System will archive file in 3 cases
 When logs file exceeds 50mb size
 When a new day is started.
-When application is restarted"
-114,Logging and Monitoring Policy.txt,"The file will be archived in gz format with date and will be moved to the folder of the application under folder name as current year and month.
+When application is restarted
+
+The file will be archived in gz format with date and will be moved to the folder of the application under folder name as current year and month.
 If there are multiple archives in a day file will be appended with numeric in suffix of the file name
 The logs that are generated are backed up on the dr server and the s3 bucket. Jenkins is used for monitoring the application logs and any alerts are sent on Teams.
 The Leadership group & IT Group has access to these logs.
@@ -1707,7 +1833,7 @@ Logging facility and Logs of monitored devices shall be protected from tampering
 Annual audit and review of all logs generated by monitored devices shall be the responsibility of IT Department.
 Current list of access privileges of each user for each information system and IT asset shall be securely retained.
 All incidents that are found to have been repetitive shall be reported to Info Sec Manager for further action."
-115,Password Protection.txt,"Overview
+29,Password Protection.txt,"Overview
 Passwords are an important aspect of computer security.  A poorly chosen password may result in unauthorized access and/or exploitation of our resources.  All staff, including contractors and vendors with access to Xtracapâs systems, are responsible for taking the appropriate steps, as outlined below, to select and secure their passwords. 
 
 Purpose
@@ -1724,8 +1850,9 @@ User accounts that have system-level privileges granted through group membership
 
 Password Change
 Passwords should be changed at least once in every 42 days.
-Password cracking or guessing may be performed on yearly or random basis. If a password is guessed or cracked during one of these scans, the user will be required to change it to be in compliance with the Password Construction Guidelines."
-116,Password Protection.txt,"Password Protection
+Password cracking or guessing may be performed on yearly or random basis. If a password is guessed or cracked during one of these scans, the user will be required to change it to be in compliance with the Password Construction Guidelines.
+
+Password Protection
 Passwords must not be shared with anyone, including supervisors and coworkers. All passwords are to be treated as sensitive, confidential information. Please refer to the technical reference for additional details. 
 Passwords must not be inserted into email messages, Alliance cases or other forms of electronic communication, nor revealed over the phone to anyone. 
 Passwords may be stored only in âpassword managersâ authorized by the organization.
@@ -1739,8 +1866,9 @@ Applications must not transmit passwords in clear text over the network.
 Applications must provide for some sort of role management, such that one user can take over the functions of another without having to know the other's password.
 
 Multi-Factor Authentication
-Multi-factor authentication is highly encouraged and should be used whenever possible, not only for work related accounts but personal accounts also."
-117,Password Protection.txt,"Policy Compliance
+Multi-factor authentication is highly encouraged and should be used whenever possible, not only for work related accounts but personal accounts also.
+
+Policy Compliance
 Compliance Measurement
 The IT Infra team will verify compliance to this policy through various methods, including but not limited to, periodic walk, video monitoring, business tool reports, internal and external audits, and feedback to the policy owner. 
 Exceptions
@@ -1757,7 +1885,7 @@ Contain number patterns such as aaabbb, qwerty, zyxwvuts, or 123321.
 Are some version of âWelcome123â âPassword123â âChangeme123â
 
 In addition, every work account should have a different, unique password. To enable users to maintain multiple passwords, we highly encourage the use of âpassword managerâ software that is authorized and provided by the organization.  Whenever possible, also enable the use of multi-factor authentication. We also recommend that each month, the system password to your machine be changed for better security."
-118,Physical Media Handling.txt,"Introduction  
+30,Physical Media Handling.txt,"Introduction  
 Physical Media Handling is the critical aspect for any organizationâs communication method. It is of utmost importance that the policy is defined at  level to establish the need to secure information and information processing facilities. Access any kind of physical media should be controlled on the basis of business and security requirements.
 
 Objective
@@ -1767,8 +1895,10 @@ Scope
 The scope of this Policy includes all XTRACAP employees. Each employee is responsible for carrying out his or her responsibilities under this Policy.
 
 
-Policy"
-119,Physical Media Handling.txt,"4.1 Management of Removable Media
+Policy 
+
+
+4.1 Management of Removable Media
  this presents two clear risks, loss of information and corruption of information or introduction of unknown software when the device is reintroduced onto the organisations network.
 If no longer required, information should be deleted/destroyed and made unrecoverable. If  authorisation should be required and records of this kept. Cryptography should be considered in order to protect from loss of data. If the media is being removed for backup purposes, it should be stored separately (think co-location) to remove the risk of correlated threats, but security should be considered for  storage, and multiple copies could be considered on discrete devices to protect against degradation of the data. Removable drives should only be permitted as a conscious choice to accept rather than the other way around. IT departments need to be aware that enabling the USB sockets on the CEOs computer for ease of use is often the most straightforward way for a 3rd party to gain access (physically or logically) to the organisations network.
 Documented procedures are required to cover the handling of removable media.
@@ -1777,19 +1907,29 @@ Documented procedures are required to cover the handling of removable media.
 This should be done securely, and disposal records should be kept. If devices containing sensitive data are damaged it should be a consideration to physically destroy them rather than sending them to a third party for repair.
 
 4.3 Physical Media Transfer
-If subcontracted, a list of approved carriers / couriers should be  and procedures put in place for the identification of those couriers. Logs of identification of information, time of transfer and receipt should be maintained â this should form part of the procedures."
-120,Physical Media Handling.txt,"Enforcement
+If subcontracted, a list of approved carriers / couriers should be  and procedures put in place for the identification of those couriers. Logs of identification of information, time of transfer and receipt should be maintained â this should form part of the procedures.
+
+Enforcement
 Violations of this Policy include, but are not limited to: accessing information which the individual has no legitimate access to; enabling unauthorized individuals to access the media; disclosing media in a way which violates applicable policy, Policy or other relevant regulations or laws; or inappropriately modifying or destroying information. Violations may result in access revocation, corrective action up to and including dismissal, and/or civil or criminal prosecution under applicable law."
-121,POSH Policy Xtracap.txt,"Xtracap Fintech India Pvt. Ltd
+31,POSH Policy Xtracap.txt,"Xtracap Fintech India Pvt. Ltd
 
 
 Policy for Prevention of Sexual Harassment at Workplace
 
 
 
-Document History"
-122,POSH Policy Xtracap.txt,POLICY FOR PREVENTION OF SEXUAL HARASSMENT AT THE WORKPLACE
-123,POSH Policy Xtracap.txt,"Introduction
+Document History
+
+
+
+
+
+
+
+   POLICY FOR PREVENTION OF SEXUAL HARASSMENT AT THE WORKPLACE
+
+
+Introduction
 
 Xtracap Fintech India Private Limited (the âCompanyâ) is committed to providing a work environment where every employee is treated with dignity and respect irrespective of gender and hierarchy. The Company does not tolerate any form of sexual harassment and is committed to take all necessary steps to ensure that its employees are not subjected to any form of sexual harassment.
 
@@ -1803,8 +1943,10 @@ Scope of the Policy
 
 Subject to the applicable provisions of the Act, this Policy deals with all the incidents and complaints of sexual harassment at the workplace, arising out of or during the course of employment with the Company.
 
-Although the Act stipulates putting in place a mechanism for prevention, prohibition and redressal of sexual harassment against women at workplace, given the policy of the Company to ensure equitable treatment to all the employees irrespective of gender or hierarchy, this Policy extends to all categories of employees of the Company. In view of this, all the provisions of this Policy shall mutatis mutandis apply to complaints of sexual harassment by the male employees as well. In such a situation, any reference to feminine gender shall be read as masculine gender and vice versa."
-124,POSH Policy Xtracap.txt,"For the purpose of this Policy â
+Although the Act stipulates putting in place a mechanism for prevention, prohibition and redressal of sexual harassment against women at workplace, given the policy of the Company to ensure equitable treatment to all the employees irrespective of gender or hierarchy, this Policy extends to all categories of employees of the Company. In view of this, all the provisions of this Policy shall mutatis mutandis apply to complaints of sexual harassment by the male employees as well. In such a situation, any reference to feminine gender shall be read as masculine gender and vice versa.
+
+
+For the purpose of this Policy â
 
 âemployeeâ means any person employed at a workplace for any work on regular or temporary, ad hoc or daily wages basis, either directly or through an agent, including a contractor, with or, without the knowledge of the principle employer, whether for remuneration or not, working on a voluntary basis or otherwise, whether the terms of employment are express or implied and includes a co-worker, a contract worker, probationer, trainee, apprentice or called by any other such name.
 
@@ -1822,9 +1964,14 @@ implied or explicit promise of preferential treatment in her employment; or
 implied or explicit threat of detrimental treatment in her employment; or
 implied or explicit threat about her present or future employment status; or
 interference with her work or creating an intimidating or offensive or hostile work environment for her; or
-humiliating treatment likely to affect her health or safety."
-125,POSH Policy Xtracap.txt,"What to do in the case of incidence of sexual harassment: In the case of incidence of sexual harassment, the Company has put in place two tier redressal mechanism. The aggrieved woman can at the first instance, opt to consult the Ombudsman nominated for the purpose of this Policy. If she is not satisfied with the outcome of the consultation with the Ombudsman, she may file a formal complaint to the Internal Committee (IC). Alternatively, the aggrieved may directly file a formal complaint to the IC without approaching the Ombudsman."
-126,POSH Policy Xtracap.txt,"Option to consult the Ombudsman before registering formal complaint to IC
+humiliating treatment likely to affect her health or safety.
+
+What to do in the case of incidence of sexual harassment: In the case of incidence of sexual harassment, the Company has put in place two tier redressal mechanism. The aggrieved woman can at the first instance, opt to consult the Ombudsman nominated for the purpose of this Policy. If she is not satisfied with the outcome of the consultation with the Ombudsman, she may file a formal complaint to the Internal Committee (IC). Alternatively, the aggrieved may directly file a formal complaint to the IC without approaching the Ombudsman.
+
+
+
+
+Option to consult the Ombudsman before registering formal complaint to IC
 
 Any of the aggrieved employees may, before registering a formal complaint with the IC, consult the Ombudsman nominated by the Company in this behalf within 15 (fifteen) days of the incidence of sexual harassment. Nonetheless, this option will be at the discretion of the aggrieved employee. If the aggrieved employee wants to register a complaint directly to IC, he/she can do that without any compulsion for exploring this option. The Ombudsman will take steps to settle the matter amicably between the complainant and the person against whom the complaint has been filed (âRespondentâ) through counselling, preferably within 7 (Seven) days of being approached by an employee. However, if the aggrieved person is not satisfied with the counselling and measures taken by the ombudsman he/ she may file a formal complaint to the IC.
 
@@ -1833,8 +1980,10 @@ Notwithstanding anything mentioned herein, it is clarified that the time taken f
 The Company has appointed Ms. Akanksha Trivedi (Email: hr@xtracapindia.com ) as Ombudsman for the purpose of this Policy.
 
 Internal  Committee
-The IC has been constituted for time bound redressal of the complaints of sexual harassment. The IC, as on date, comprises of the following:"
-127,POSH Policy Xtracap.txt,"Every Member of the IC shall hold office for a period not exceeding three years, from the date of their nomination by the Director and Head âHR (also referred to as âSenior Managementâ).
+The IC has been constituted for time bound redressal of the complaints of sexual harassment. The IC, as on date, comprises of the following:
+
+
+Every Member of the IC shall hold office for a period not exceeding three years, from the date of their nomination by the Director and Head âHR (also referred to as âSenior Managementâ).
 
 Procedure for Complaint and Inquiry
 
@@ -1852,8 +2001,9 @@ Where the victim cannot make a complaint on account of â
 
 physical incapacity, her legal heirs or relative or friend or co-worker or an officer of the National Commission for Women or State Womenâs Commission or any person who has knowledge of such incident, with the written consent of the victim, may make a complaint;
 
-mental incapacity, her legal heirs or relative or friend or a special educator or a qualified psychiatrist or psychologist or the guardian/ authority under whose case she is getting treatment or any person who has knowledge of such incident jointly with any of the above may make a complaint."
-128,POSH Policy Xtracap.txt,"death, her legal heirs or any person who has knowledge of such incident, with the consent of her legal heir; or
+mental incapacity, her legal heirs or relative or friend or a special educator or a qualified psychiatrist or psychologist or the guardian/ authority under whose case she is getting treatment or any person who has knowledge of such incident jointly with any of the above may make a complaint.
+
+death, her legal heirs or any person who has knowledge of such incident, with the consent of her legal heir; or
 
 otherwise for any other reason, her legal heirs or any person who has knowledge of such incident, with the her consent.
 
@@ -1868,8 +2018,9 @@ For the purpose of making an inquiry, the IC shall have the same powers as are v
 
 summoning and enforcing the attendance of any person and examining on oath;
 requiring the discovery and production of documents; and
-any other matter which may be prescribed."
-129,POSH Policy Xtracap.txt,"The IC shall make inquiry into the complaint in accordance with the principles of natural justice.
+any other matter which may be prescribed.
+
+The IC shall make inquiry into the complaint in accordance with the principles of natural justice.
 Parties shall not be allowed to bring any legal practitioner to represent them in
 the proceedings before the IC.
 
@@ -1887,8 +2038,9 @@ restrain the Respondent from reporting on the work performance of the complainan
 
 On completion of the inquiry, the IC shall provide a report of its findings to the Senior Management within a period of 10 (ten) days from the date of completion of the inquiry and a copy of the report shall be given to the complainant and Respondent.
 
-If the allegations against the Respondent are not proved, no action will be recommended by the IC against the Respondent."
-130,POSH Policy Xtracap.txt,"In case the allegation against the Respondent has been proved, the IC may recommend any of the following:
+If the allegations against the Respondent are not proved, no action will be recommended by the IC against the Respondent.
+
+In case the allegation against the Respondent has been proved, the IC may recommend any of the following:
 	to take action for sexual harassment as a misconduct as per Companyâs policy/ service rules/ code of conduct including a verbal or written warning, suspension, or termination of employment or a written apology, reprimand or censure, withholding of promotion, pay rise or increments, undergoing a counseling session or carrying out community service.
 
 ii. to deduct, notwithstanding anything in the Companyâs policy/ service rules/ code of conduct applicable to the Respondent, from the salary or wages of the Respondent, such sum as it may consider appropriate to be paid to the aggrieved woman or to her legal heirs, as it may determine.
@@ -1905,8 +2057,9 @@ In case the employer is unable to make such deduction from the salary of the Res
 
 The IC may forward the order for recovery of the sum as an arrear of land revenue to concerned District Officer, in terms of the provisions of the Act.
 
-The employer shall act upon the recommendation made by the IC within 60 (sixty) days of its receipt."
-131,POSH Policy Xtracap.txt,"Notwithstanding anything contained in the Right to Information Act, 2005, the contents of the complaint made, the identity and addresses of the aggrieved woman, Respondent and witnesses, any information relating to conciliation and inquiry proceedings, recommendations of the IC, as the case may be, and the action taken by the employer or the District Officer under the provisions of the Act shall not be published, communicated or made known to the public, press and media in any manner.
+The employer shall act upon the recommendation made by the IC within 60 (sixty) days of its receipt.
+
+Notwithstanding anything contained in the Right to Information Act, 2005, the contents of the complaint made, the identity and addresses of the aggrieved woman, Respondent and witnesses, any information relating to conciliation and inquiry proceedings, recommendations of the IC, as the case may be, and the action taken by the employer or the District Officer under the provisions of the Act shall not be published, communicated or made known to the public, press and media in any manner.
 
 Punishment for False/ Malicious Complaint and False Evidence
 
@@ -1931,12 +2084,13 @@ The malicious intent on the part of the complainant shall be established after a
 
 Action against witness in case of false evidence: Where the IC arrives at a conclusion that during the inquiry any witness has given false evidence or produced any forged or misleading document, it may recommend to the employer of the witness to take action in accordance with the provisions of the service rules applicable to the said witness.
 
-Appeal by Aggrieved Person"
-132,POSH Policy Xtracap.txt,"A person aggrieved with the recommendations made by the IC, or the non- implementation of the recommendations of the IC, as the case may be, may prefer an appeal within a period of 90 (ninety) days in terms of the provisions section 18 of the Act.
+Appeal by Aggrieved Person
+
+A person aggrieved with the recommendations made by the IC, or the non- implementation of the recommendations of the IC, as the case may be, may prefer an appeal within a period of 90 (ninety) days in terms of the provisions section 18 of the Act.
 Amendments to the Policy
 
 Based on the experiences of working on the Policy, the Senior Management may make necessary amendments in the Policy. Further, the IC may also make recommendations to the Senior Management about amendments in the Policy."
-133,Production Backup.txt,"Database Hosted on Production Server
+32,Production Backup.txt,"Database Hosted on Production Server
 analytics
 auth
 xtracap
@@ -1979,7 +2133,7 @@ http://jenkins.bridge2capital.com:8080/view/FintechProd/job/Prod_Archive_DB_Back
 
 Archive Jenkins Job
 H 3 3,18 * *"
-134,Return of company assets.txt,"Policy Statement
+33,Return of company assets.txt,"Policy Statement
 The policy highlights the return of all company owned assets from employees, third parties etc, and the circumstances of the return. 
 
 Objective
@@ -1995,7 +2149,7 @@ In situations where an employee or external user is aware that this information 
 
 EnforcementÂ 
 Any employee found to have violated this policy may be subjected to disciplinary action in line with the HR Policy"
-135,Third  Party Security.txt,"Overview
+34,Third  Party Security.txt,"Overview
  contains the code of conduct and information sharing with third parties that require any kind of integration or access to any of the services that are designed and implemented by the Xtracap organization. 
 Purpose
 This document describes the policy under which third party persons or organizations connect to or access network resources onÂ Xtracap networks for the purpose of business-related transactions or other approved business transactions.
@@ -2010,8 +2164,9 @@ Records being generated as part of this Policy shall be retained for the period 
 This Policy document shall be made available to all the employees covered in the scope. All the changes and new releases of this document shall be made available to the persons concerned. The maintenance responsibility of the document shall be with the I Infra team and system administrators.
 
 Privacy
-This Policy document shall be considered as âconfidentialâ and shall be made available to the concerned persons with proper access control. Subsequent changes and versions of this document shall be controlled."
-136,Third  Party Security.txt,"Policy Compliance
+This Policy document shall be considered as âconfidentialâ and shall be made available to the concerned persons with proper access control. Subsequent changes and versions of this document shall be controlled.
+
+Policy Compliance
 Compliance Measurement
 This Policy shall be implemented by the IT Infra team and designated personnel (if any).This policy has full support from theÂ executive steering committee and human resources. This policy is a living document and may be modified at any time by the IT manager, human resources, or the executive steering committee.
 The IT Infra team will verify compliance to this policy through various methods, including but not limited to, business tool reports, internal and external audits, and feedback to the policy owner. 
@@ -2022,30 +2177,43 @@ An employee found to have violated this policy may be subject to disciplinary ac
 
 Policy 
 6.1 Pre-RequisitesÂ Security Review
-All new extranet connectivity will go through a security review with the Office of IT Manager. The reviews are to ensure that all access matches the business requirements in a best possible way, and that the principle of least access is followed."
-137,Third  Party Security.txt,"6.2 Third Party Connection Agreement
+All new extranet connectivity will go through a security review with the Office of IT Manager. The reviews are to ensure that all access matches the business requirements in a best possible way, and that the principle of least access is followed.
+
+
+6.2 Third Party Connection Agreement
 All new connection requests between third parties and Xtracap require that the third party  agree to and sign theÂ Third Party Agreement. This agreement must be signed by the IT Manager as well as a representative from the third party who is legally empowered to sign on behalf of the third party.Â  By signing this agreement the third party agrees to abide by all referenced policies. The signed document is to be kept on file with the relevant extranet group.Â  All non-publicly accessible information is the sole property of Xtracap.
 
 Â 6.3Â Business Case
 All extranet connections or network resource access must be accompanied by a valid business justification, in writing, that is approved by the third party. Typically this function is handled as part of theÂ Third Party Agreement.
 
 6.4 Point  Contact
-The Third Party must designate a person to be the Point of Contact (POC) for the third party connection. The POC acts on behalf of the party, and is responsible for those portions of this policy and the âThird Party AgreementâÂ that pertain to it. In the event that the POC changes, the relevant third party person or organization, must inform Xtracap promptly."
-138,Third  Party Security.txt,"6.5 Establishing Connectivity
+The Third Party must designate a person to be the Point of Contact (POC) for the third party connection. The POC acts on behalf of the party, and is responsible for those portions of this policy and the âThird Party AgreementâÂ that pertain to it. In the event that the POC changes, the relevant third party person or organization, must inform Xtracap promptly.
+
+6.5 Establishing Connectivity
 All contracting authorities within that wish to establish connectivity or network resource access to a third party are to file an Extranet connectivity request with IT Manager accompanied by a âThird Party AgreementâÂ signed by the third party person, organization, or rightful designee.Â  IT Manager will then engage the third party to address security issues inherent in the project. All connectivity established must be based on the least-access principle, in accordance with the approved business requirements and the security review. All connectivity requests will have a specific beginning and ending date.Â  In no case will rely upon the third party to protect network or resources.Â  IT Manager will grant access to all approved resources and reserves the right to refuse access on the basis of legitimate security concern as decided by theÂ IT Infra Lead.
 
 6.6 Modifying or Changing Connectivity and Access
-All changes in access must be accompanied by a valid business justification, and are subject to security review.Â  The Xtracap team is responsible for notifying the third party person or organization and IT Manager when there is a material change in their originally provided information so that security and connectivity evolve accordingly.Â  Extensions will be granted on a  basis and must be requested in writing by the sponsoring contracting authority."
-139,Third  Party Security.txt,"6.7 Terminating Access
+All changes in access must be accompanied by a valid business justification, and are subject to security review.Â  The Xtracap team is responsible for notifying the third party person or organization and IT Manager when there is a material change in their originally provided information so that security and connectivity evolve accordingly.Â  Extensions will be granted on a  basis and must be requested in writing by the sponsoring contracting authority.
+
+6.7 Terminating Access
 When access is no longer required, the concerned team withinÂ Xtracap must notify the IT Manager, who will then terminate the access. This may mean a modification of existing permissions up to terminating the circuit, as appropriate. IT Infra team must conduct an audit of their respective connections on an annual basis to ensure that all existing connections are still needed, and that the access provided meets the needs of the connection. Connections that are found to be deprecated, and/or are no longer being used to conduct business or other approved business transactions will be terminated immediately. Should a security incident or a finding that a circuit has been deprecated and is no longer being used to conductÂ business or other approved business transactions necessitate a modification of existing permissions, or termination of connectivity, IT Manager will notify the POC of the concerned Xtracap team of the change prior to taking any action."
-140,Travel Reimbursment Policy.txt,"XTRACAP FINTECH INDIA PRIVATE LIMITED
+35,Travel Reimbursment Policy.txt,"XTRACAP FINTECH INDIA PRIVATE LIMITED
 
 
 info@xtracapindia.com	CIN U72900DL2017PTC318226
 
 
-Travel Reimbursement Policy of Xtracap Fintech India Pvt Limited"
-141,Travel Reimbursment Policy.txt,"Policy
+Travel Reimbursement Policy of Xtracap Fintech India Pvt Limited
+
+
+
+
+
+
+
+
+
+Policy
 The travel expenses towards incurred by an employee for official travel on behalf of the company is reimbursable by the company on production of travel expense as per the underlining policy of the company in the approved expenses format only provided to all employees.
 All travel for more than a day should have prior email approval of the reporting manager with details of the period and purpose of the travel. The employees should travel with objectives and inform the purpose of the travel.
 The travel plan should be planned in advance to ensure proper reservation and in case of air travel the air ticket should done at least 15 days in advance to save the company high airfares due to last minute booking. Note that air ticket cancelation should not be availed without valid reason. All air travel must be approved by the CEO & MD of the company.
@@ -2055,8 +2223,11 @@ Travel entitlement
 
 
 
-Food & Hotel"
-142,Travel Reimbursment Policy.txt,"Day trip the employee will be paid Daily Allowance as per the following table
+Food & Hotel
+
+
+
+Day trip the employee will be paid Daily Allowance as per the following table
 
 
 Full hotel allowance can be avail by the employee only when night stay involves outside of employee Head Quarter.
@@ -2074,7 +2245,7 @@ Mobile bill reimbursement ( distribution staff )
 The mobile connection and data card (if used) will have to be purchased by the employee and all staff are requested to have post-paid connection as bills will be required for claim
 The respective reporting manager to verify, approve and send to Accounts Department at Head Office on or before 10th of every month. Enclose air tickets/boarding passes/AC class rail tickets/hotel lodging/telephone bills etc. The Accounts team will have full authority to process the expenses claims as per the policy and any exception will require approval of the CEO & MD. All claims will be processed only on receipt of the physical claim by the accounts team with email approval of the reporting manager.
 NOTE : International travel is not covered under this policy and will be circulate to the concern top management who are entitled for international travel"
-143,Wireless Network Policy.txt,"Purpose 
+36,Wireless Network Policy.txt,"Purpose 
 The purpose of this policy is to secure and protect the information assets owned by Xtracap. Xtracap provides computer devices, networks, and other electronic information systems to meet its mission, goals, and objectives. Xtracap grants access to these resources according to an individualâs role and must manage them responsibly to maintain the confidentiality, integrity, and availability of all information assets. This policy specifies the conditions that wireless infrastructure devices must satisfy in order to connect to the Xtracap network. Only those wireless infrastructure devices that meet the standards specified in this policy or are granted an exception by CISO are approved for connection to the Xtracap network. 
 Scope 
 This policy addresses the requirements of Wireless deployments, Wireless usage, and Wireless airspace usage. All employees, contractors, consultants, temporary workers, and others who use the Xtracap network, including all personnel affiliated with third parties that maintain a wireless infrastructure device on behalf of Xtracap, must adhere to this policy. This policy applies to all wireless infrastructure devices that connect to the Xtracap network or reside at an Xtracap owned, leased or rented site that provide wireless connectivity to endpoint devices including, but not limited to, laptops, desktops, cellular phones, and personal digital assistants (PDAs). This includes any form of wireless communication device capable of transmitting packet data.
@@ -2083,8 +2254,8 @@ Wireless Deployments
 Standards supported: 
 IEEE 802.11ac and 802.11n are the preferred wireless networking standards. 802.11g, 802.11b, and 802.11a will be available, where necessary. 
 IEEE 802.1X is the authentication standard. Additional security procedures may be applied as needed. 
-WPA2 with AES encryption will be the only secure standard used."
-144,Wireless Network Policy.txt,"Service Set Identifier (SSID): There shall be three SSIDs broadcast by the wireless deployment. Only devices authenticated account credentials may access this SSID. 
+WPA2 with AES encryption will be the only secure standard used. 
+Service Set Identifier (SSID): There shall be three SSIDs broadcast by the wireless deployment. Only devices authenticated account credentials may access this SSID. 
 Wireless Service Considerations: 
 Wireless networking has bandwidth limitations compared to the wired network. The wireless network should be viewed as augmenting the wired network, to provide more flexible network use. Applications that require large amounts of bandwidth, or are sensitive to changes in signal quality and strength may not be appropriate for wireless access. 
 Wireless technology is and will for the foreseeable future be a shared bandwidth technology. Some protocols and services will not effectively work in, or may be inappropriate for, a wireless environment.
@@ -2096,7 +2267,7 @@ Use of the wireless network is subject to the established policies for use of ne
 Only devices authenticated via Xtracap account credentials may access network resources on its network that are not Internet facing. 
 EnforcementÂ 
 Any employee found to have violated this policy may be subjected to disciplinary action in line with the HR PolicyÂ"
-145,Work From Home Policy.txt,"Overview
+37,Work From Home Policy.txt,"Overview
 We designed our work from home policy to make sure that working from home is beneficial to our employees and company
 Purpose
 The purpose of this policy is to provide guidance for the work from home scenario. Employees must follow the procedure and the guidelines entailed in this document to apply for and work according to Xtracapâs set guidelines when working from home.
