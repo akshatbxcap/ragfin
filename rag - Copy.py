@@ -12,6 +12,9 @@ import warnings
 
 warnings.filterwarnings("ignore")
 
+
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
+
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 
 folder_path = r'/Users/akshatb/documents/ragfin/foldeer'
