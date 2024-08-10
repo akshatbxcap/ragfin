@@ -1,0 +1,143 @@
+(Business Continuity Process) BCP and Disaster Recovery (DR) Drill Comprehensive Report
+
+
+
+Executive Summary
+
+In today's world, it is important to ensure that the services provided by any company remain available and accessible, even in the event of disasters or outages. 
+
+This report presents the results of the Business Continuity Process & Disaster Recovery (DR) drill conducted on 27th April 2023 for Xtracap Fintech Pvt Ltd in accordance with Business continuity Policy and the Disaster Planning of Xtracap Fintech Pvt Ltd. The purpose of this drill was to test our ability to recover our critical IT systems and operations in the event of a disaster. This report provides an overview of the drill, the results, and our observations and recommendations for improving our DR and Business continuity capabilities.
+Objectives
+
+To minimize the impact of disasters or outages on business operations
+To maintain business continuity and ensure that services are available and accessible to clients
+To verify the replication process, ensure data consistency
+To validate application functionality
+To test the analytics VM connection
+ To assess system performance, and to evaluate the recovery process.
+To maintain the RTO and RPO within the specified limit
+
+Assumptions
+
+Permissible value for RPO is 24 hrs
+Permissible value for RTO is 2 hrs.
+Last back up was successfully completed at 4:00 AM, 27th April 2023
+
+Recovery Team
+
+
+Execution
+Following are the steps taken to initiate, execute, and complete the BCP-DR drill:
+
+Simulating the disaster scenario by shutting down the primary (DC) server.
+Activating the DR VM as the active system.
+Validating data replication and consistency between the primary and DR databases.
+Verifying the functionality of the JAVA application hosted on the DR VM.
+Testing the analytics VM's connection to the DR VM's database and its ability to perform tasks.
+Monitoring the performance of the DR VM during the drill.
+List issues encountered during the DR Activity, if any.
+Determine and log the RPO and RTO
+
+Expected Disruptions:
+The disruptions expected during the DR are:
+Disruption in onboarding customers on Bridge2Capital and XtracapNeo
+Disruption in invoice disbursement
+Disruption in the reconciliation services
+Failure of backup leading to data loss
+Recovery
+The recovery steps taken to recover from the DR drill and switch back to the primary (DC) server include:
+
+Failing back to the primary (DC) server and confirming it is serving as the active system.
+
+Synchronizing data changes made during the drill from the DR database back to the primary database.
+
+Verifying the functionality of the JAVA application on the primary (DC) server after the drill.
+
+Results of the DR Drill
+
+The DR team was able to recover all critical systems and data within the specified RTO and RPO. Specifically, the following results were achieved:
+
+DR was recovered in 49 minutes with an RTO of 23 minutes. The data loss was limited to 19.93 hrs, which is within the permissible RPO of 24hrs.
+Recommendations for Improvement
+Recommendations based on the analysis of the DR drill results are:
+
+DB backup frequency to be increased to 3 times per day.
+DR daily backup to be done
+DR and DC to be maintained at different locations
+Additional testing or monitoring to ensure application functionality and analytics capabilities.
+
+Supporting Evidence
+
+Obtaining Senior management approval.
+
+
+
+Informing the relevant stakeholders.
+
+
+
+Initiating DR
+
+
+
+ Services are shutdown
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All JAVA JAR and WAR are Killed
+
+
+DB Backup Done
+
+
+DB Backup available on QA Server
+
+
+Starting DB Restore on QA Server
+
+
+
+Prod DB Validated 
+
+
+
+
+Analytics DB validated
+
+
+Checking Bank transaction
+
+
+
+All Prod services are started
+
+
+
+
+Portal is working.
+
+
+
+Login Successful on Portal
+DR conclusion mail
+
+
+Conclusion
+
+The DR activity was successfully conducted on 27th April 2023 to minimize the impact of disasters or outages on business operations. The team was successful in testing the ability to recover our critical IT systems and data in the event of a disaster. 
+
+We were able to achieve the specified RTO and RPO for all critical systems, and we have identified areas for improvement to further enhance our DR capabilities. We will continue to refine our DR plan and procedures based on these results to ensure that we are prepared for any potential disaster scenario.

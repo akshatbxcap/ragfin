@@ -1,0 +1,93 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Policy Statement
+The policy highlights the management of all company owned assets from employees, third parties etc. 
+
+Objective
+The objective of this policy is to ensure the management of company owned assets in a rightful and orderly manner.
+
+Policy.
+All the company owned assets must be properly named, assigned & managed by the authorized person in the rightful manner.
+All the laptops will be linked to AD, with Latest windows updates Installed.
+IT employees are given laptop in consultation with the Reporting Manager of the concerned employee.
+The laptops are named with prefix XTRACAP-XX followed by the serial number starting from 01.
+For e.g.: XTRACAP-01 is the first laptop in the series
+All Laptops have Latest Antivirus by default, and DLP Policy is in Place to block External USB Devices.
+All the servers are named with prefix XTRACAP-SRV followed by the serial number starting from 01.
+For e.g., XTRACAP-SRV-01 is the first in the series
+All VM’s have Updates Installed before making them ready for use.
+Antivirus can be installed from the link https://192.168.72.11:9111/html/pgmain/installw.htm
+Only default ports are open on Laptops, on QA / UAT / Production server all ports are blocked by default, ports are opened as per business requirement and approval.
+All users on the servers are given a unique username/user id.
+All the Sales Group Members are provided with official mobile numbers & the same shall be allocated by Resource manager in consultation with their respective Reporting Manager during the onboarding process.
+In case of resignation/termination of the contract of any employees, the resources would be deactivated and reassigned, if needed by the Resource Manager. 
+
+Enforcement 
+Any employee found to have violated this policy may be subjected to disciplinary action in line with the HR Policy

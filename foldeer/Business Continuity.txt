@@ -1,0 +1,19 @@
+Business Continuity
+
+Policy Statement 
+Corporate management has approved the following policy statement: 
+• The company shall develop a comprehensive IT disaster recovery plan.
+• A formal risk assessment shall be undertaken to determine the requirements for the disaster recovery plan. 
+• The disaster recovery plan should cover all essential and critical infrastructure elements, systems and networks, in accordance with key business activities. 
+• The disaster recovery plan should be periodically tested in a simulated environment to ensure that it can be implemented in emergency situations and that the management and staff understand how it is to be executed. 
+• All staff must be made aware of the disaster recovery plan and their own respective roles. 
+• The disaster recovery plan is to be kept up to date to consider changing circumstances.
+
+Objectives 
+The principal objective of the disaster recovery program is to develop, test and document a well-structured and easily understood plan which will help the company recover as quickly and effectively as possible from an unforeseen disaster or emergency which interrupts information systems and business operations. Additional objectives include the following: 
+• The need to ensure that all employees fully understand their duties in implementing such a plan 
+• The need to ensure that operational policies are adhered to within all planned activities 
+• The need to ensure that proposed contingency arrangements are cost-effective 
+• The need to consider implications on other company sites 
+• Disaster recovery capabilities as applicable to key customers, vendors and others.
+

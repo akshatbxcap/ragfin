@@ -1,0 +1,68 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Overview
+The risk of data theft, scams, and security breaches can have a detrimental impact on a company's systems, technology infrastructure, and reputation. As a result, Xtracap Fintech has created this policy to help outline the security measures put in place to ensure information remains secure and protected.
+Purpose
+The purpose of this policy is to (a) protect Xtracap data and infrastructure, (b) outline the protocols and guidelines that govern cyber security measures, (c) define the rules for company and personal use, and (d) list the company's disciplinary process for policy violations.
+Scope
+This policy applies to all of Xtracap remote workers, permanent, and part-time employees, contractors, volunteers, suppliers, interns, and/or any individuals with access to the company's electronic systems, information, software, and/or hardware.
+Confidential Data
+Xtracap defines "confidential data" as:
+Unreleased and classified financial information.
+Customer, supplier, and shareholder information.
+Customer leads and sales-related data.
+Patents, business processes, and/or new technologies.
+Employees' passwords, assignments, and personal information.
+Company contracts and legal records
+Device Security:
+Company Use.
+To ensure the security of all company-issued devices and information, Xtracap employees are required to:
+Keep all company-issued devices password-protected (minimum of 8 characters). This includes tablets, computers, and mobile devices.
+Secure all relevant devices before leaving their desk.
+Obtain authorization from the Office Manager and/or Inventory Manager before removing devices from company premises.
+Refrain from sharing private passwords with coworkers, personal acquaintances, senior personnel, and/or shareholders.
+Regularly update devices with the latest security software.
+5.2 Personal Use.
+Xtracap recognizes that employees may be required to use personal devices to access company systems. In these cases, employees must report this information to management for record-keeping purposes. To ensure company systems are protected, all employees are required to:
+Ensure all personal devices used to access company-related systems are password protected(minimum of 8 characters).
+Install full-featured antivirus software.
+Regularly upgrade antivirus software.
+Lock all devices if left unattended.
+Ensure all devices are protected at all times.
+Always use secure and private networks.
+5.3 Email Security.
+Protecting email systems is a high priority as emails can lead to data theft, scams, and carry malicious software like worms and bugs. Therefore, Xtracap requires all employees to:
+Verify the legitimacy of each email, including the email address and sender name.
+Avoid opening suspicious emails, attachments, and clicking on links.
+Look for any significant grammatical errors.
+Avoid clickbait titles and links.
+Contact the IT department regarding any suspicious emails.
+5.4 Transferring Data.
+Xtracap recognizes the security risks of transferring confidential data internally and/or externally. To minimize the chances of data theft, we instruct all employees to:
+Refrain from transferring classified information to employees and outside parties.
+Only transfer confidential data over Xtracap networks.
+Obtain the necessary authorization from senior management.
+Verify the recipient of the information and ensure they have the appropriate security measures in place.
+Adhere to Xtracap data protection law and confidentiality agreement.
+Immediately alert the IT department regarding any breaches, malicious software, and/or scams.
+
+
+

@@ -1,0 +1,49 @@
+
+
+
+Introduction:
+The software and hardware that make up the computer networks are essential resources for Organizations. They aid staff in carrying out their everyday duties and without them important communication systems would not exist. 
+Computer backup pose considerable risks to data and provides an opportunity to restore the data from backup if there is any requirement of it like in deletion, corruption, hardware failure situation etc.
+
+Objective :
+This policy is designed to give guidance and direction on minimizing the risk of lost of data. The purpose of Backup Policy is to establish an effective way for the backup & Restore.
+
+Breaches of this policy should be regarded as serious misconduct which could lead to disciplinary action in accordance with the organization’s policy.
+
+Scope :
+
+This policy applies to: 
+
+All the data of Xtracap and anyone can request for backup and restore their data with proper approvals. 
+Responsibilities and Duties 
+IT Infra team shell ensure that all requested data is taken care for backup and restored as requested to them with proper approval.
+Frequency
+       Backup frequency is daily and weekly
+
+Invocation
+       This procedure shall be followed whenever there is:
+
+Policy 
+
+BACKUP INVOCATION:
+
+·  Request for Backup
+  If there is a business need to backup any information, a request must be initiated;  and this procedure will be triggered.
+
+·  Conditional Backup Request (Changes Request / Patch Implementation)
+If there is a change in any information system or a patch needs to be implemented, a backup request shall be initiated in order to roll back the information system to the previous status in case of any an unexpected failure / disaster caused from that change.
+
+Backup Schedule
+Weekly backup will be taken as per the request raise by the stack holders & available in the backup sheet maintained by the IT department . Every request of backup requirement must be part of this backup sheet.
+	
+
+RESTORE INVOCATION:
+
+· Regular Restoration Request 
+A Small level of restoration will be performed after backup is done, department responsible person whose data is restored would validate the same and acknowledges.  
+
+· Emergency Restore
+In the event of a disaster, an emergency restoration request will be initiated; and this procedure will be triggered
+
+· Periodic Backup Restoration Testing
+To ensure that the backup scheme is working as expected, restoration testing shall be initiated on daily basis on QA after scrubbing the customer’s personal data,

@@ -1,0 +1,44 @@
+
+Policy Statement
+To meet the enterprise business objectives and ensure continuity of its operations, XTRACAP shall adopt and follow well-defined and time-tested plans and procedures, to ensure that sensitive information is classified correctly and handled as per organizational policies. Information is considered as primary asset of an organization. An organization uses different types of information assets. The sensitivity of these information assets may vary and similarly, their handling mechanisms are also different.
+2. Purpose
+The purpose of this policy is to ensure personal information and confidential information is protected from unauthorized use and disclosure. This policy helps to facilitate the identification of information to support routine disclosure and active dissemination of information. It also helps to protect the intellectual property of XTRACAP.
+3. Scope
+4.1 Employees
+This policy applies to all Managers, employees, contractors, and third party employees who have access to IT assets of XTRACAP and may be bound by contractual agreements.
+3.2 IT Assets
+This policy applies to all information assets of XTRACAP.
+3.3 Documentation
+The policy documentation shall consist of Information Classification and Handling Policy and related procedures & guidelines.
+3.4 Document Control
+The Information Classification and Handling Policy document and all other referenced documents shall be controlled. Version control shall be to preserve the latest release and the previous version of any document. However, the previous version of the documents shall be retained only for a period of two years for legal and knowledge preservation purpose.
+3.5 Records
+Records being generated as part of the Information Classification and Handling Policy shall be retained for a period of two years. Records shall be in hard copy or electronic media. The records shall be owned by the respective system administrators and shall be audited once a year.
+3.6 Distribution and Maintenance
+The Information Classification and Handling Policy document shall be made available to all the employees covered in the scope. All the changes and new releases of this document shall be made available to the persons concerned. The maintenance responsibility of this document shall be with the CISO and website administrator.
+4. Privacy
+The Information Classification and Handling Policy document shall be considered as “confidential” and shall be made available to the concerned persons with proper access control. Subsequent changes and versions of this document shall be controlled.
+5. Responsibility
+The CISO / designated personnel is responsible for proper implementation of the Information Classification and Handling Policy.
+6. Policy
+XTRACAP categorizes information into four classes: Confidential, Project / Process / Department specific, Internal, and Public.
+Confidential – The information assets which have high confidentiality value belong to this category. Only a limited set of authorized users shall access these information assets. Examples include business strategy and personnel files.
+Restricted – The information assets that contain data pertaining to the needs of a specific department, project team, or business process, belong to this category. Such information assets shall be accessible to members of the concerned department, project, or business process only.
+Internal – The information assets which can be distributed within all offices of XTRACAP belong to this category. Examples are office orders and internal circulars.
+Public – The information assets which do not have any confidentiality requirement and / or can be disseminated to the general public belong to this category. Examples include annual financial report of XTRACAP and information displayed on XTRACAP’s website.
+Following are the policies for secure handling of information assets of XTRACAP:
+Handling and labeling of all media shall be according to its indicated classification level.
+Depending on the classification of information, electronic transmission, copying and distribution of copies of such information, shall require prior approval of CISO / DGM / GM / CEO, as applicable.
+Mailing and/or shipment of confidential information shall require that information be sent through a reputed mail service / courier with proper authentication.
+Confidential information shall be stored with proper security and / or in safe lockers.
+Disposition of confidential and Project / Process / Department specific information shall require shredding in the presence of CISO / DGM / GM / CEO / Process In-charge, as applicable.
+Appropriate access restrictions shall be applied to prevent access from unauthorized personnel.
+Formal record of the authorized recipients of data shall be maintained.
+Information processing operations shall ensure the following: that input data is complete, that processing is properly completed, and that output validation is applied.
+Storage of media shall be in accordance with the manufacturers’ specifications.
+All copies of media shall be clearly marked for the attention of the authorized recipient.
+Spooled data awaiting output shall be protected to a level consistent with its sensitivity.
+Distribution of data shall be based on “need to know” and “need to use” principles.
+Distribution lists and lists of authorized recipients shall be reviewed at regular intervals.
+7. Enforcement
+Any employee found to have violated this policy may be subjected to disciplinary action in line with the HR Policy / Staff Regulation Act of XTRACAP.

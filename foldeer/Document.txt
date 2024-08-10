@@ -1,0 +1,21 @@
+Information & Cyber Security Policy – done
+Data Confidentiality and Protection - done
+Access Management - done
+Email Security Policy - done
+Mobile and Work from Home policy - done
+Application Security – done 
+People Management (HR Security)
+Incident Management Policy – done
+Third Party Security Policy - done
+Operations Security 
+Cloud Security – done
+
+ 
+Backup Process
+Patch Management
+Change Management
+Access Management
+Software Development Life Cycle Process
+Compliance Management
+Third Party Security
+Security Awareness Session : in 2-4 batches of 2 Hrs

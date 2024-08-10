@@ -1,0 +1,49 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Overview
+Cloud computing offers a number of advantages including low costs, high performance and quick delivery of services. However, without adequate controls, it also exposes individuals and organizations to online threats such as data loss or theft, unauthorized access to corporate networks, and so on
+This cloud computing policy is meant to ensure that cloud services are NOT used without the IT Infra Lead’s knowledge. It is imperative that employees NOT open cloud services accounts or enter into cloud service contracts for the storage, manipulation or exchange of company-related communications or company-owned data without the IT Infra Lead’s input. This is necessary to protect the integrity and confidentiality of Xtracap data and the security of the corporate network
+
+
+Purpose
+
+The purpose of this policy is to outline the acceptable use of the cloud services offered by Xtracap. Xtracap’s IT department remains committed to enabling employees to do their jobs as efficiently as possible through the use of technology. The following guidelines are intended to establish a process whereby Xtracap employees can use cloud services without jeopardizing company data and computing resourcesof network systems and services, and legal issues. 
+Scope
+
+This policy applies to all employees in all departments of Xtracap exceptions.
+This policy pertains to all external cloud services, e.g. cloud-based email, document storage, Software-as-a-Service (SaaS), Infrastructure-as-a-Service (IaaS), Platform-as-a-Service (PaaS), etc. Personal accounts are excluded.
+If you are not sure whether a service is cloud-based or not, please contact the IT department.
+Policy
+Use of cloud computing services for work purposes must be formally authorized by the IT Infra Lead. The IT Infra Lead will certify that security, privacy and all other IT management requirements will be adequately addressed by the cloud computing vendor.
+For any cloud services that require users to agree to terms of service, such agreements must be reviewed and approved by the IT Infra Lead
+The use of such services must comply with IT Infra Lead’s existing Acceptable Use Policy/Computer Usage Policy/Internet Usage Policy/BYOD Policy.
+Employees must not share log-in credentials with co-workers. The IT department will keep a confidential document containing account information for business continuity purposes.
+The use of such services must comply with all laws and regulations governing the handling of personally identifiable information, corporate financial data or any other data owned or collected by Xtracap.
+The IT Infra Lead decides what data may or may not be stored in the Cloud.
+Personal cloud services accounts may not be used for the storage, manipulation or exchange of company-related communications or company-owned data.
+Office 365
+New employees get access to Office 365 by Default when they Join Xtracap, they will be added to the Default Group and their respective Teams.
+It is mandatory for all employees to complete Infosec Training as part of the Induction. 
+ 
+
+
+
+

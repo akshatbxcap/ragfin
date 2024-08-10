@@ -1,0 +1,86 @@
+
+
+CAPACITY MANAGEMENT PROCESS
+ISO 27001: 2013
+
+XTRACAP FINTECH PRIVATE LIMITED
+411, Vishal Tower, 10 District Centre, Janakpuri, Delhi, West Delhi, India - 110058
+
+
+
+Document Summary
+
+
+Document Revision History
+
+
+
+
+
+
+INTRODUCTION
+2.1 PROCESS OVERVIEW
+The process of capacity planning is shown below.
+
+This process will be used as the basis for capacity management within Xtracap and is described in more detail in the following sections.
+
+2.2 System Recovery Procedure
+2.2.1 Forecast Future Capacity Requirements
+The purpose of this step is to capture and understand the changing business requirement for capacity. This may take a number of forms, such as:
+increasing or decreasing use of existing applications by current users
+the addition or removal of users
+a change in the way the system is being used e.g. the introduction of a new batch job that must be run during the working day
+a change in the days and/or times the services are used e.g. beginning Saturday working or overtime
+Such changes may have an effect on a number of areas of infrastructure such as server processor and disk capacity or network bandwidth as well as upon other resources such as people and facilities engaged in delivering the service.
+In order to gain as much advance knowledge of such changes as possible, business capacity requirements will be a key area addressed at each service review meeting and will be a standard agenda item. These meetings will be minuted and items affecting capacity management will be fed into the overall capacity plan for Xtracap Fintech India Pvt Ltd.
+2.2.2 Plan to Meet Requirements
+For each identified service provided by Xtracap Fintech India Pvt, an estimate of future capacity adjustments will be made. 
+A capacity plan will be produced on an annual basis which will bring together the future demands on service components from business changes and the current utilisation of resources and identify any areas in which the provision of capacity needs to be adjusted. This may involve the justification of additional hardware such as server upgrades, the recruitment of additional support staff or the installation of higher bandwidth links between sites, amongst other proposals.
+Key to this task will be the understanding of which service components underpin each service and the dependencies between them. For shared resources such as file and print servers and domain controllers for example, the net impact of changes across all business areas must be considered.
+Although initially produced on an annual basis, the capacity plan will be subject to amendments as and when significant changes are made to business requirements or to the infrastructure. These amendments will be made under the control of the change management process.
+
+2.2.3 Monitor, Analyse and Report on Resource Usage
+In order to understand the current use of our resources, where possible software tools will be used to record the utilisation of key components. As a minimum, these will be:
+Server processor capacity
+Server disk capacity
+Network utilisation
+Where feasible, this data will be collected continuously and stored for historical reporting purposes. A threshold will be set for key resources (such as disk capacity) so that an alert is generated if that threshold is exceeded, allowing immediate action to be taken.
+The tools that will be used are:
+Shell Scripts
+Jenkins
+
+2.2.4 Tune to Make Best Use of Resources
+In addition to monitoring the actual usage of key resources, regular attention will also be paid to the correct setup and tuning of servers and network devices so that best performance can be obtained from the available resources. 
+ This will cover issues such as:
+Memory allocation
+Swap space sizes
+Job priorities
+Identification of resource bottlenecks (e.g. insufficient disk arms)
+An annual exercise will be carried out on all business-critical servers. All changes identified will be implemented under strict change management control.
+2.3 ROLES AND RESPONSIBILITIES
+Service Manager
+Consults with interested parties regarding potential capacity requirements in the next budget year
+Prepares a draft capacity plan for review
+Liaises with resource managers 
+Proposes additional expenditure as part of budget cycle
+
+Business Customer
+Provides information regarding changes affecting capacity
+Keeps the [Service Manager] informed of any amendments
+
+Top Management
+Approves the capacity plan
+Considers budget implications of meeting requirements
+
+Resource Manager
+Monitors the usage levels of key resources
+Reports on any exceptions potentially affecting service
+Reports on current usage levels
+Performs tuning activities where appropriate
+
+2.4 RACI MATRIX
+The table below clarifies the responsibilities at each step using the RACI system, i.e.:
+  R= Responsible	 A= Accountable	C= Consulted 	             I= Informed
+
+
+<= END OF DOCUMENT =>

@@ -1,0 +1,72 @@
+Business Continuity Policy
+
+
+
+
+
+Introduction
+This policy outlines the approach to business continuity management for Xtracap Fintech India Pvt Ltd. The policy applies to all employees, contractors, and any third-party vendors who work with Xtracap Fintech.
+Objectives
+The objectives of this policy are to ensure that:
+Xtracap Fintech can continue to operate in the event of a disruption to its normal business operations
+Xtracap Fintech can provide an acceptable level of service to its customers during a disruption
+Xtracap Fintech can recover its normal business operations as quickly and effectively as possible after a disruption
+All employees understand their roles and responsibilities in relation to business continuity
+Scope
+This policy covers all areas of Xtracap Fintech's operations, including but not limited to:
+IT systems and infrastructure
+Key business processes
+Communication systems
+Office facilities
+Human resources
+
+Responsibilities
+4.1 Executive Management
+Executive management is responsible for:
+Approving and reviewing the Business Continuity Plan
+Providing the necessary resources for business continuity
+Ensuring all employees are aware of their roles and responsibilities
+
+
+4.2 Business Continuity Management Team
+The Business Continuity Management Team (BCMT) is responsible for:
+Developing and maintaining the Business Continuity Plan
+Testing and reviewing the Business Continuity Plan on a regular basis
+Ensuring all employees are aware of their roles and responsibilities
+Implementing the Business Continuity Plan in the event of a disruption
+
+
+4.3 Employees
+All employees are responsible for:
+Understanding their roles and responsibilities in relation to business continuity
+Cooperating with the BCMT during a disruption
+Participating in regular testing and training
+
+Business Continuity Plan
+The Business Continuity Plan outlines the steps to be taken in the event of a disruption to Xtracap Fintech's normal business operations. Xtracap Fintech will implement the following business continuity planning process:
+Identify critical services and resources that are necessary for Xtracap Fintech to continue its operations
+Assess the impact of a disruption on these critical services and resources
+Develop and implement a business continuity plan that includes procedures and measures to ensure the continuity of critical services and resources
+Test and validate the business continuity plan on a regular basis
+Review and update the business continuity plan as needed to ensure its effectiveness
+
+Emergency Response 
+In the event of an unplanned disruption, Xtracap Fintech will activate its business continuity plan and emergency response procedures. 
+Notify all relevant parties, including employees, clients, vendors, and regulators
+Assess the impact of the disruption on critical services and resources
+Activate backup systems and alternate locations to ensure the continuity of critical services and resources
+Monitor the situation and provide regular updates to relevant parties
+Deactivate the business continuity plan and emergency response procedures once the disruption has been resolved
+
+Testing and Review
+The BCMT will conduct yearly testing and review of the Business Continuity Plan to ensure its effectiveness. Testing will include:
+Testing the emergency response procedures
+Testing the business recovery procedures
+Testing the communication procedures
+Testing the IT recovery procedures
+Testing the off-site backup and recovery procedures
+
+Conclusion
+Xtracap Fintech is committed to maintaining an effective Business Continuity Plan to ensure the continuity of its operations in the event of a disruption. All employees are expected to comply with this policy and participate in regular testing and training. The Business Continuity Plan will be reviewed and updated on a regular basis to ensure its ongoing effectiveness.
+
+

@@ -1,0 +1,44 @@
+
+Database Hosted on Production Server
+analytics
+auth
+xtracap
+xtracap_archive
+
+What do we Backup
+xtracap
+analytics
+xtracap_archive
+
+Frequency of Backup
+xtracap (30 4 * * *)
+Daily Backed up and Downloaded to Local QA Server.
+Copy of Backup pulled onto DR Server.
+From DR Server Last 7 Backups are Pushed to S3 Bucket.
+analytics(30 4 * * *)
+Daily Backed up and Downloaded to Local QA Server.
+Copy of Backup pulled onto DR Server.
+From DR Server Last 7 Backups are Pushed to S3 Bucket.
+xtracap_archive(H 3 3,18 * *)
+
+How do we Backup
+We have a Jentkins Job to Backup and Download Daily DB to QA Server
+http://jenkins.bridge2capital.com:8080/view/FintechProd/job/Prod_DB_Backup_Download_2_QA/
+Cron:
+30 4 * * *
+This Job Downloads Daily DB Backup from Production Server to Local QA Server
+-It downloads two DBs
+xtracap
+analytics
+
+Archiving 
+Archiving process is running on Production Server through a Cron Job, daily at 2:05 am using the Script available at below Path:
+05 2 * * * /bin/sh -x /deployment/scripts/archive.sh
+Gagan will give you a writeup on this
+
+
+xtracap_archive
+http://jenkins.bridge2capital.com:8080/view/FintechProd/job/Prod_Archive_DB_Backup_Download_2_QA/
+
+Archive Jenkins Job
+H 3 3,18 * *

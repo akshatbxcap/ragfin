@@ -1,0 +1,551 @@
+
+
+
+
+
+
+
+Introduction  
+Business survival in the current competitive environment necessitates planning for every type of business disruption including - but by no means limited to - the categories of natural disasters; hardware and communications failures; internal or external sabotage or acts of terrorism; and the failures of supply chain and sales affiliate organizations. While some business disruptions, may give advance warning others, such as terrorism, flash floods, fire, etc., can strike without notice. The threats that we (and by extension our clients) face today are more numerous and complex than those we have faced in the past. In addition, this is not going to change - tomorrow's threat environment will be much worse than todays. These disruptions usually affect the normal operations of the business, with results ranging from insured losses of replaceable tangibles to uninsurable capital losses, customer dissatisfaction, and even possible desertion. 
+
+The situation gets more complex with the growth of e-commerce and other factors, having driven system availability expectations toward 24 X 7. The average organization’s requirement for recovery time from a major system outage now ranges between 2 and 24 hours.
+
+Xtracap being a customer-oriented organization with the philosophy of growing together with customers is sensitive to the impact that any such break down would have on its customer’s business and commitments. This has led to the formulation of a holistic approach to Disaster Management and Business Process Continuity for Xtracap as the Continuity of Business Plan. The purpose of the plan is to equip Xtracap to be able to respond to any type of situation - including those that we have not identified as a threat. To put in place management controls to respond quickly and to a plan as situations unfold.
+
+
+
+
+
+
+
+
+
+Objective
+The objectives of a Business Continuity Plan are (but not limited to):
+
+To minimize interruptions to normal operations. 
+To limit the extent of disruption and damage. 
+To establish alternative means of operation in advance. 
+To provide immediate solution for smooth and rapid restoration of service. 
+
+Scope
+The scope of the disaster recovery plan for the Xtracap  office covers high impact risks. 
+
+High impact risks:
+
+Loss of access to office facilities due to 
+political unrest/disturbances – medium probability, high impact
+
+Loss of office facilities due to 
+Fire – Low probability, high impact
+Floods- Low probability, high impact
+Landslips/Subsidence - medium probability, high impact
+
+Loss of network connectivity - low probability, high impact
+
+Scope excludes: Client-owned information resources exclusively governed by client’s own Disaster recovery and Business Continuity procedure. Also, area level disasters are outside the scope of BCP, but best efforts will still be made.
+Reference
+ISO/IEC 27001:2013
+Stakeholders
+
+
+
+Xtracap Business Location
+Primary Location
+Xtracap Fintech
+5th Floor, The Circle - Huda City Centre, Sector 29, Gurugram, Haryana 122002
+
+Alternative Operational Plan
+As because of our setup and arrangement, we may operate virtually from any location as most of our key employees have been given Laptop and Internet Data cards. During emergencies they can take current backup from their laptop or connect to client’s server to continue their tasks, where copy of original data is also available.
+Maintenance of Procedure
+Ensuring that the procedure reflects ongoing changes to resources is crucial. This task includes updating the Plan and revising this document to reflect the updates, testing the updated Plan and training personnel. This Plan undergoes a formal review, at least once in a year, to confirm the incorporation of all changes since the previous review and the task is done by CISO. Further testing of BCP is also done once a year by use of either of simulation testing, walk-through, and checklist-based testing, etc.
+
+Strategy for Continuity of Business Plan (CoBP)
+The Plan is predicated on the validity of the following assumptions: 
+
+The situation that causes the disaster is localized to the facility of Operations and Systems in the current office premises of Xtracap Fintech at Gurugram.
+It should be noted however, that the Plan would still be functional and effective even in an area-wide disaster. Even though the basic priorities for restoration of essential services to the surrounding affected areas will normally take precedence over the recovery of an individual organization. Xtracap's Continuity of Business Plan can still provide for a more expeditious restoration of our resources for supporting key functions.
+The continuity of business plan is based on the availability of the hot sites or the back-up resources, as described in this document. The accessibility of these, or equivalent back-up resources, is a critical requirement.
+
+Overview of the Continuity of Business Plan (CoBP)
+Xtracap recognizes the low probability of severe damage to Data Processing, Telecommunication, or Support Services capabilities at both Xtracap and any of its preferred vendors. Nevertheless, a plan like the COBP is necessary to identify the potential impact of such an incident on the assets of Xtracap and its clients.
+
+In the event of a disaster affecting any of the functional areas, the Disaster Recovery Team serves as liaison between the functional area(s) affected and other external organizations providing major services. For the BCP purpose, following roles and representatives are identified as Disaster Recovery Team (DRT): - 
+
+
+
+
+
+
+
+
+
+KEY MANAGERIAL PERSONNEL
+
+The Designation & Contact Information of Key Managerial Personnel is mentioned below:
+
+
+
+IMPORTANT Partner INFORMATION
+
+The Contact Information of Partners & Service providers to be Contacted during a Disaster is given below: -
+
+
+
+
+Recovery Prioritization
+Category I
+Restoring the API connectivity between the Bank and NBFC so  that the payments are collected & disbursed smoothly.
+Category II
+Restoring the connectivity between various integration partners so that customer onboarding & management can start.
+Category III
+Tools used by the software development people.
+Applications that are used by the accounts department.
+Applications that are used by the IT Network department
+Application that are used by the HR department 
+Category IV
+Application used by Quality Department
+Application used by Admin department
+Category V
+All other left-out things
+
+Procedure
+The business continuity plan essentially requires infrastructure, system, people, and process management to be mobilized in case of any kind of contingency to re-locate the Offshore projects to alternate site to have the minimal impact on the business and to avoid reputation loss. The following sections describe the process of recovery of systems, people, and processes in times of disaster.
+
+Disaster may be classified into 3 categories depending on the area affected due to it:
+Local - affecting systems, infrastructure & people at a particular location or in a designated part of the organization.
+Zonal - affecting the entire building due to factors such as fire, bomb blasts, etc;
+Regional - affecting the building and surrounding areas due to factors like major terrorist attack, political turmoil, earthquakes, floods etc.
+
+The Disaster Recovery Team (DRT) is formed of the employees by management or CISO from the various practices/ work groups of the company and is authorized to decide on:
+Identifying critical activities and projects in line with DR & BCP.
+Mobilization of manpower to re-locate the project depending on the type of contingency.
+
+
+Disaster Recovery Process Flow
+Disaster Recovery Preparation
+
+The Disaster Recovery Team (DRT) led by the Disaster Recovery Manager will:
+
+
+Get ready the list of all personnel's name and their telephone numbers.
+Keep a list of Key Managerial Personnel for business continuity 
+Have the bridge number handy to get on the conference call.
+Make all personnel aware of their tasks and responsibilities.
+Maintain a list of hardware resources and desktops required.
+Maintain a list of software required for business continuity.
+Provide CDs of the software required to respective Manager and to the critical resources identified by them.
+Identify critical services without which work may be hampered.
+Identify critical services that need to be restored on priority – Internet, email, Vendor Domain, and VPN connectivity.
+Identify DR site/s that will be used when a disaster occurs. Keep direction to the DR site readily available.
+Identify any additional item that would be needed at the DR site so that it can be transported when required.
+Keep a list of primary vendors for assistance at the time of emergency 
+The IT Software Representatives of the DRT are required to take backup of important files.
+The IT Software Representatives of the DRT to ensure data is regularly backed up as per backup policy.
+The IT Software Representatives of the DRT to Test and evaluate the DR plan regularly.
+
+Initiation of the Natural Disaster Recovery Plan (DRP)
+
+Initiation of the DRP & CoBP is the responsibility of the DRT Manager or Director.
+Activate the Damage Assessment Team (DAT), which is a nominated team comprising of DRT members. 
+Update the Director to initiate damage control exercises with the clients considering the criticality matrix
+Respective Communication Manager will inform the domestic clients about the impact of the damages and the immediate plans
+
+
+
+Activities depending upon the nature of loss 
+
+Case 1 – Loss of Access to Office Premises – Xtracap Remains Functional
+
+Office is functional; however, accessibility of people to reach office is restricted. 
+
+Respective Manager will identify the criticality of project and its deliverables.
+Manager will identify critical people who need to resume work.
+Manager will intimate critical people to resume work immediately - those having system, internet, and access to requisite VPN connectivity.
+DRT Leader will take decision with the team whether to use the DR site 
+If a decision is taken not to use the business center but have people work from home, Manager will be required to do the following: -
+Intimate critical people to resume work immediately - those having system, internet, and access to requisite VPN connectivity.
+Arrange data cards for internet connection for those not having it. Manager will get in touch with the identified vendors to supply the same.
+Arrange systems for those who have no system. Manager will coordinate with the vendor to provide hardware and the data card.
+CDs with the software required to resume work will be made available to critical project team through courier or by reaching out.
+Manager will request IT-Support/onsite counterpart to provide VPN access to those not having it and are critical to the delivery.
+
+Case 2 – Loss of Access to Office Premises –Xtracap is non-Functional
+
+Respective Manager will identify the criticality of project and its deliverables.
+Manager will identify critical people who need to resume work.
+Manager will intimate critical people to resume work immediately - those having system, internet, and access to requisite VPN connectivity.
+DRT Leader will take decision with the team whether to use the DR site. If a decision is taken not to use the business center but have people work from home, Manager will be required to do the following: -
+Arrange data cards for internet connection for those not having it. Manager will get in touch with the identified vendors to supply the same. 
+Arrange systems for those who have no system. Manager will coordinate with the vendor to provide hardware and the data card.
+CDs with the software required to resume work will be made available to critical project team through courier or by reaching out.
+Manager will request IT-Support/onsite counterpart to provide VPN access to those not having it and are critical to the delivery.
+
+Damage Assessment and Salvage
+This subsection contains instructions to Disaster Recovery Team for disaster response, disaster assessment and recovery efforts. 
+
+Plan of Action
+Disaster Recovery Manager to notify team members, and vendors to report to the site for initial damage assessment and clean up. 
+Disaster Recovery Manager to notify insurance representative, if any.
+Disaster Recovery Manager to issue work-orders and call appropriate personnel. 
+Take a service representative from each of the appropriate vendors, the insurance claims representative and appropriate department personnel into the site. 
+Disaster Recovery Team members to review and assess the damage to the facility. List all equipment and the extent of damage. List damage to all support systems (power, A/C, fire suppression, communications, etc.). 
+Disaster Recovery Team members to notify the Disaster Recovery Manager (DRM) and Director, as to the severity of the damage and what can potentially be salvaged. 
+Disaster Recovery Team members to notify the Disaster Recovery Manager if the area can be restored to the required level of operational capability in the required timeframe. 
+
+
+Salvage Operations 
+Plan of Action
+Disaster Recovery Manager to initiate the Emergency Notification List and have all Disaster Recovery Team members report to the Staging Area. 
+Disaster Recovery Team Have the Manager Administration to determine which equipment and furniture can be salvaged. Photograph all damaged areas as soon as possible for potential insurance claims. 
+Disaster Recovery Team Important ** before performing any salvage operation contact Insurance Team to coordinate with possible insurance claims requirements and appraisals. 
+Have the staff start salvaging any furniture and equipment. 
+Based upon advice from Insurance Team and Infrastructure team, contact computer hardware refurbishes regarding reconditioning of damaged equipment 
+Disaster Recovery Manager to meet with the Director to provide status on salvage operations. 
+
+
+
+
+Security 
+This subsection contains instructions to the Security for disaster response and recovery efforts. 
+
+Plan of Action
+The Security personnel to ensure that all facets of security protection Staff are afforded, relative to entry/exit controls, transportation of information, etc. at both the damaged and backup sites. 
+
+Information Dissemination
+Plan of Action
+
+In instances where media are notified immediately, due to fire department or police involvement, the Director or person nominated by him, will proceed to the scene at once to gather initial facts. Emphasis must be placed upon getting pertinent information to the news media as quickly as possible. 
+When appropriate, prepare news releases on a periodic basis for distribution to the local media list. 
+If employee injuries or fatalities are involved, notify HR to send appropriate management personnel to the homes of the involved families. 
+HR notifies Disaster Recovery Manager and Director as soon as families have been informed. This will permit the release of names and addresses of victims so that families of those not involved can be relieved of anxiety. 
+To contact the hospitals where injured have been taken to coordinate the release of information. 
+Coordinate follow-up news releases after the immediate emergency has passed to present Xtracap in as positive light as possible. Possible topics could include: 
+What has been done to help employees?
+What are plans for disaster recovery?
+What are plans for business continuity?
+What are plans for reconstruction? 
+What has been done to express gratitude to the community for its help? 
+What has been done to prevent recurrence of this type of emergency?  
+
+Infrastructure and Telecommunications 
+This subsection contains instructions to the Infrastructure and Telecommunications Systems team for disaster response and recovery efforts. 
+
+Plan of Action
+
+Receives report of disaster.
+Oversees assessment of damage to infrastructure and telecommunications facilities. Directs contingency and recovery efforts. Provides updates to Disaster Recovery Team, Disaster Recovery Manager along with Top Management.
+Arranges for telecommunications services to support critical functions. Procures stock to repair or replace damaged equipment. Restores full services in a timely manner. 
+Assists with restoration of cable and wire, as needed. Assists other departments with relocation and restoration of data facilities. 
+
+
+
+Disaster Recovery Plan (DRP) & Strategy for IT Network
+
+Network Diagram
+
+
+
+
+
+
+
+Monitoring & Alert	:	Yes
+
+
+
+Scenario: NETWORK DEVICE IS DOWN, SECONDARY BACKUP DEVICE AVAILABLE
+
+Action plan for network devices is as follows:
+
+Case 1	:	Auto Transition Successful
+
+Plan of Action	:	There are two complete failure scenarios.
+
+1.   H/W Failure steps are as follows:-
+
+Network team will decide whether complete hardware or only a part needs to be replaced.
+Network team will coordinate the activity and will get the faulty H/W part replaced and if required will install software from location: File Location
+After fixing the device Network team will test the device by accessing its URL, gateway, internet, and VPN. 
+Complete activity would take maximum 6 hours, which includes 4 hours SLA from vendor side and 2 hours for software installation.
+
+2.   S/W Failure
+
+IOS can be reinstalled by using the dump kept at location: File Location
+No configurations need to be done. This activity would take around 2 hours.
+
+Case 2	:	Transition Unsuccessful
+
+Plan of Action	:	Steps are as follows: -
+
+N/W team will manually make the device down. 
+Available Backup device will now route the traffic automatically otherwise manually change the route.
+To recover faulty device, action will be as stated in CASE 1 above.
+
+Disaster Recovery Plan (DRP) & Strategy for IT Software Segment
+
+Xtracap employees have been given Laptop and Internet Data cards, hence during emergencies they can work from home and connect to VPN to continue their tasks.
+Containment strategy is also to be taken in the event of a disaster or service disruption to minimize the impact of any service disruption through a focus on  keeping  the operations running at the highest level of service possible.
+To smooth communication, it is imperative to have responsibilities clearly allocated, which is done as required and as follows: -
+
+
+Disaster Recovery Plan (DRP) & Strategy for Active Directory (Domain Server)
+
+Scenario 1:	OS corrupt, Hardware Failure and object deletion 
+Case 1:	Operating System corrupted on DC1 server, System State Backup available.
+STEPS:
+Take Backup Active Directory DC1
+Format the server DC1, & reinstall OS
+Start server in DSRM mode.
+Restore System State Backup on original Location (Non-Authoritative Restore), & restart in normal mode
+Check DC health thru DCDIAG, NETDIAG, and replication through repadmin
+STEP 1: 
+1. Open your command prompt by clicking Start and type "cmd" and hit enter.
+ In your command prompt type "wbadmin start systemstatebackup -backuptarget:e:" and press enter.
+
+Note: You can use a different backup target of your choosing
+Type "y" and press enter to start the backup process.
+When the backup is finished running you should get a message that the backup completed successfully. If it did not complete properly you will need to troubleshoot.
+	STEP 2:
+Now format the root drive C, and reinstall OS.
+Reinstalled the OS to the same drive letter C as previously and with at least the same amount of physical drive space. 
+STEP 3:
+Now restart the server, and after NetBIOS information press F8 key.
+Now select the option Directory service restore Mode through arrow key, and press Enter key.
+Now a Pop up Message will appear, click on OK.
+When login prompt will appear enter administrator, in User Name box, and the password in Password box, click on OK.
+STEP 4:
+To do this you will need to boot into DSRM (Directory Services Restore Mode) by restarting your server and pressing F8 during the restart.
+Choose Directory Services Restore Mode from the Advanced Boot menu.
+
+Login to your server with your DSRM password you created during Active Directory installation.
+Once you're logged into your server and in DSRM safe mode, open a command prompt by clicking Start, type "cmd", and press enter.
+To make sure you restore the correct backup it's a good idea to use the "wbadmin get versions" command and write down the version you need to use.
+Now we need to perform a non-authoritative restore of Active Directory by typing "wbadmin start systemstaterecovery -version: “Date-time".
+Note: The version of backup will vary depending on your situation. Type "y" and press enter to start the non-authoritative restore.
+STEP 5:
+Click on Start      Run, and type cmd .
+In command prompt type dcdiag /fix, and view the result.
+Now type netdiag, and view the result.
+To verify the replication type repadmin /showreps
+
+Case2:	The server hardware damaged, restore domain controller on other server computer.
+STEPS:
+Take System State Backup of DC1
+Install OS on second Server.
+Restart server in DSRM mode.
+Restore System State Backup on original Location (Non-Authoritative Restore).
+Change the BURFLAG value to D2 to complete Non-Authoritative Restore.
+Restart Computer/Repair OS.
+Verify the existence of ClientProtocols key.
+Verify the DNS record registration of this server through dcdiag & netdiag.
+STEP 1:
+1. Open your command prompt by clicking Start and type "cmd" and hit enter.
+2. In your command prompt type "wbadmin start systemstatebackup -backuptarget:e:" and press enter.
+
+You can use a different backup target of your choosing
+Type "y" and press enter to start the backup process.
+When the backup is finished running you should get a message that the backup completed successfully. If it did not complete properly you will need to troubleshoot.
+
+
+
+
+STEP 2:
+Reinstalled the OS to the same drive letter C as previously, with same installation folder, and with same physical amount.
+STEP 3:
+Now restart the server, and after BIOS information press F8 key.
+Now select the option Directory service restore Mode through arrow key, and press Enter key.
+Now a Pop up Message will appear, click on OK.
+When login prompt will appear enter administrator, in User Name box, and the password in Password box, click on OK.
+STEP 4:
+Once you're logged into your server and in DSRM safe mode, open a command prompt by clicking Start, type "cmd", and press enter.
+To make sure you restore the correct backup it's a good idea to use the "wbadmin get versions" command and write down the version you need to use.
+Now we need to perform a non-authoritative restore of Active Directory by typing "wbadmin start systemstaterecovery -version: “Date-time".
+Note: The version of backup will vary depending on your situation. Type "y" and press enter to start the non-authoritative restore.
+STEP 5:
+Click Start, and then click Run
+In the Open box, type regedit, and then click OK.
+In the left pane expand My Computer.
+Expand HKEY_LOCAL_MACHINE, and then expand SYSTEM.
+Expand CurrentControlSet, and then expand Services.
+Expand NtFrs, and then expand Parameters
+Expand Backup/Restore, and then click Process at Startup
+In the right pane, right-click BurFlags, and then click Modify
+In the Value data box, type d4, and then click OK
+STEP 6:
+Now restart the server in normal mode.
+If server not restart in normal mode then an OS repair is required
+STEP 7:
+Click Start, and then click Run. 
+In the Open box, type regedit, and then click OK. 
+In the left pane, expand My Computer. 
+Expand HKEY_LOCAL_MACHINE, and then expand SOFTWARE. 
+Expand Microsoft, and then expand Rpc
+Now verify the existence of key ClientProtocols
+Now in right pane verify the existence of the following values:
+Ncacn_ip_tcp	REG_SZ	rpcrt4.dll
+Ncacn_nb_tcp	REG_SZ	rpcrt4.dll
+	Ncacn_ip_udp	REG_SZ	rpcrt4.dll
+	Ncancn_np	REG_SZ	rpcrt4.dll
+STEP 8:
+Click on Start   Run, and type cmd .
+In command prompt type dcdiag /fix, and view the result.
+Now type netdiag, and view the result.
+To verify the replication type repadmin /showreps
+
+Emergency Incident Response Plan
+This section of the document explains the importance of developing an incident response plan through a well-defined incident response framework. The framework comprises seven phases that ensure a consistent and systematic approach in handling such incidents. The details for each of the seven phases is summarized below:
+Phase 1 – Preparation: In any incident response plan, it is essential to form an Incident Response Team (“IRT”) prior to other tasks. The role of the team is to promptly handle an incident so that it will have minimal impact to the business operation. The team is formed of members from various functional roles in your organisation. The process of setting up the team is explained in section 4.1.
+Phase 2 – Identification: The occurrence of an incident is unpredictable. An anomaly in the system behaviour may indicate an incident or configuration errors. Hence, identifying an incident amidst routine daily operations is not an easy task. In section 4.2, some guidelines are provided to facilitate the process of positively identifying an intrusion incident.
+Phase 3 – Assessment: After the identification phase, an initial assessment should be performed to confirm the existence of the incident. The assessment should include determining the scope, the impact of the incident, and the extent of the damage caused by the incident.
+Phase 4 – Containment: Containment of the incident is necessary to minimise and isolate the damage incurred by your Company. In section 4.4, some guidelines are provided to help determine the appropriate course of action for limiting the extent of the incident.
+Phase 5 – Eradication: In order to successfully eliminate the incident, the IRT need to determine the cause of the incident that resulted in the compromise of the system. 
+Phase 6 – Recovery: The recovery phase restores operations of the compromised system to facilitate the resumption of normal business operations. Prior to the resumption process, a validation check should be performed to ensure that the system is secured against any repeated incidents. Furthermore, the system should be placed under surveillance to ensure that if the perpetrator returns, unauthorised attempts may be detected early.
+Phase 7 – Follow-up: As a follow-up, you should perform a post-mortem analysis of the compromised system to understand the weaknesses that resulted in the incident and other potential vulnerable areas. In the event that the Company is considering legal action against the perpetrator, it is recommended that forensic specialists and/or law enforcement agencies should be engaged to ensure that digital evidence are accumulated and preserved in a manner that is consistent with the legislative requirements.
+
+Incident Definition
+A security incident can be any of the following:
+
+violation of an explicit or implied security policy
+
+attempts to gain unauthorized access
+
+unwanted denial of resources
+
+unauthorized use of electronic resources
+
+Modification without the owner’s knowledge, instruction, or consent.
+
+As an illustration, one of the security requirements in the Xtracap  is to ensure that all vendor-supplied default system passwords should be changed. There are many websites that publish default passwords for many vendor products. One of the websites is http://www.astalavista.com. If an intruder compromises a router using its default password obtained from the above website, an incident has occurred. Using the compromised device, further exploits may be launched against other systems or network devices in the IT infrastructure.
+
+Incident Classification 
+
+
+
+Incident Severity Level
+Once classification of the incident has occurred, the severity level of the incident can be determined. The severity level of the incident will dictate the course of actions that should be performed to resolve the incident. The following five severity levels may be assigned to the incident:
+
+
+Incident Response
+
+The objective of an incident response is to provide a systematic approach in developing an incident response plan. A well-defined incident response plan will enable you to handle any incident efficiently and effectively with minimal impact to the business operations. When developing these plans, efforts must be made to anticipate scenarios before they happen, and to make the following decisions in advance:
+
+Where did the incident happen?
+
+Which areas of the business processes are affected?
+
+Who should be notified?
+
+What are the procedures/actions to be taken?
+
+How should the procedures/actions be performed?
+
+Preparation
+An Incident Response Team (IRT) is made up of senior management and experienced people – these are immediately made, which are comprises of the stakeholders discussed above or as needed from the organization. The role of the IRT is to promptly handle an incident so that containment, investigation and recovery can quickly occur. The IRT should be empowered by the top management to have decision-making authority for facilitating the incident response process. The needs and resources of the company also play a part in the selection of the team members. Below picture illustrates an overview of the team structure in IRT:
+
+
+
+IRT Leader 			: Inderjit Singh Bedi	
+Supervisory Team Leader	: Nitin Verma
+Supervisory Team Member	:Pulkit Dham
+Note: More people may be added as needed.
+
+The responsibility of the Supervisory Team includes:
+Making decisions on, and reviewing steps taken to rectify matters
+Communicating and translating technical information to senior management or board of directors
+Supervising and reviewing test results based on the tests conducted to verify the feasibility and effectiveness of the incident response procedures
+Cooperating with and supplying information to the support team so that their duties can be carried out
+Coordinating resources, e.g. software and hardware acquisition, if required
+Maintaining proper records of events and actions taken
+Attending, establishing and conducting training for relevant personnel
+Performing scenario planning and identifying corrective actions for each scenario; and
+Supervising and reviewing the update, including lessons learnt, on the Incident Response Procedures.
+
+The responsibility of the Site Team includes:
+Surveying and securing the systems and environment
+Containing the incident
+Eradicating incident and performing recovery procedures
+Compiling “recovery kit”, e.g. recovery procedures, contact list, boot disks, software, tools, hard disk, and so on
+Attending and conducting training for relevant personnel and
+Updating and maintaining the Incident Response Procedures.
+
+The responsibility of the Support Team includes:
+Providing logistic and technical support to other IRT teams when required
+Updating public and relevant authorities via commercial press, web sites, telephone and others, and
+Coordinating communications for the company with various external parties, if required.
+
+A leader will be appointed in the IRT as the point of contact in the event of an incident. When an incident is reported by the helpdesk, the leader will be responsible for contacting the relevant sub-teams to handle the incident.
+
+When reporting the incident, communication should be made via the telephone, etc. This is to prevent interception of emails by the perpetrator if the computer used for sending the email has been compromised or by a “sniffer” program that has been planted on the network to capture information sent across the network. Should sensitive electronic media need to be passed to a third party (e.g. listings of account numbers that were leaked) this may be done via secure courier. However the media must be strongly encrypted.
+Depending on situation, support from other technical teams in the Company (e.g. the network operations, anti-virus team or IT helpdesk) may be required to assist in the incident handling process.
+
+Identification
+The cost of incident response and recovery can be high. When a staff member notices a suspicious anomaly in data, a system, or the network, the IRT must perform investigation and verification, which is time and resource consuming. This activity is at risk if the number of false reports exceeds the number of real incidents that occurred, as it diverts resources away from real incidents. To facilitate the task of identification, the following is a list of typical symptoms of security incidents, which include any or all the following:
+
+A system alarm or similar indication from an intrusion detection tool
+Suspicious entries in system or network accounting (e.g. a UNIX user obtains root access without going through the normal sequence)
+Accounting discrepancies (e.g. an eighteen-minute gap in the accounting log with no entries)
+Repetitive unsuccessful logon attempts within a short time interval
+Unexplained new user accounts, new files or unfamiliar file names
+Phishing messages
+Unexplained modifications to file lengths and/or dates, especially in system executable files
+Unexplained attempts to write to system files or changes in system files
+Unexplained modification or deletion of data
+Denial/disruption of service or inability of one or more users to login to an account
+Ransomware attack
+Poor system performance of dedicated servers
+Operation of a program or sniffer device to capture network traffic
+Unusual time of usage (e.g. users login during non-working hours)
+An indicated last time of usage of a user account that does not correspond to the actual last time of usage for that user, and
+Unusual usage patterns (e.g. programs are being compiled in the account of a Finance user with no programming background).
+
+Although no single symptom conclusively shows that a security incident is taking place, observing one or more of these symptoms prompts the observer to investigate events more closely. System administrators who encounter one or more of these symptoms should work with the IRT to determine the cause of the incident. Using the above-mentioned categories of incidents as reference, the IRT should validate security incidents on a per case basis before proceeding with the other phases in the framework. All details in the Identification phase should be documented in the Incident Reporting Form. 
+
+
+
+Assessment
+The next step to be taken by the IRT is to assess the scope, the impact and the magnitude of the incident. As a note of precaution, never power off or reboot a compromised system immediately as this may result in the loss of data, information or evidence required for forensic investigation later. The following are some of the factors to consider during the assessment:
+
+How many computers are affected by this incident?
+Is sensitive information involved?
+What is the entry point of the incident (e.g. network, phone dial)?
+What is the potential damage caused by the incident?
+What is the estimated time to recover from the incident?
+What resources are required to manage the situation?
+How should the assessment be performed effectively?
+
+Depending on the severity of the situation, top management may have to be informed. Notification guidelines should be developed by the IRT during the preparation of the incident response plan. For “Extreme” and “High” risk incidents, the IRT should escalate them to Visa. The Incident Reporting Form can be used to document the information gathered from the assessment.
+
+Containment
+The objective of the containment phase is for the IRT to regain control of the situation by limiting the extent of the damage. The IRT may consider isolating the compromised system from the rest of the network systems. However, this may disrupt the business operation if the compromised system is critical or many systems were affected by the incident, as in the example of a virus outbreak. Hence, the IRT must evaluate with the management on a per case basis the risk of continuing operations versus regaining control of the compromised system. All attempts to contain the threat must consider every effort to minimize the impact to the business operations.
+
+Furthermore, a backup should also be performed on the system to maintain the current state of the system to facilitate the post-mortem and forensic investigation later. The IRT may also consider changing the system passwords to prevent the possibility of Trojan programs being installed on the compromised system that allows the intruder from returning to the system via a backdoor.
+
+Eradication
+After the containment phase, further investigation should be performed to uncover the cause of the incident by analyzing system logs of various devices (e.g., firewall, router, host logs). It is important that the IRT uses a separate set of administrative tools for the investigation and not those in the compromised system. If the perpetrator has modified the system configuration, execution of any system tools may have dire consequences. For example, the intruder may have modified the DOS CMD.EXE application of the compromised system to delete all files in the system rather than to return a command shell.
+
+A clean operating system should be reloaded into the compromised server after the investigation. Many off-the shelf operating systems are not developed with security in mind. Hence, to increase the security defence of the system, it must undergo a hardening process, which should include:
+
+Applying all the latest patches
+Disabling any unnecessary services
+Installing anti-virus software, and
+Applying the Company’s security policy to the system.
+
+Recovery
+Prior to restoring the system from a clean backup, it is recommended that the IRT validate that the eradication procedures have been properly performed. After installing the backup, the system should be monitored in a test environment to determine if it is functioning normally before it can be restored into the business operation.
+
+Documentation and Records
+All details related to the incident response process should be documented and filed for easy reference. This provides valuable information to unravel the course of events and can serve as evidence if prosecution of intruders is necessary. It is recommended that the following items be maintained:
+
+All system events (audit records)
+All actions taken (including the time that an action is performed), and
+All external conversations (including person with whom the discussion was held, the date and time and the content of the conversation).
+
+Furthermore, an incident report documenting the following should be written by the IRT at the end of the exercise:
+A description of the exact sequence of events
+The method of discovery
+Preventive measure put in place, and
+Assessment to determine if the recovery step taken is sufficient and what other recommendations need to be considered
+The objective of the report is to identify potential areas of improvement in the incident handling and reporting procedures. Hence, the review of the report by management should be documented, together with the lessons learnt, to improve on the identified areas and used as reference for future incidents.
+
+

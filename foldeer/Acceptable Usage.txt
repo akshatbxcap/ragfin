@@ -1,0 +1,97 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Policy Statement
+To meet the enterprise business objectives and ensure acceptable use of its information systems and networks, XTRACAP shall adopt and follow well-defined and time-tested plans and  follow guidelines to exercise judgement regarding use of organizational resources. XTRACAP is deploying IT-enabled services at various internal divisions for managing its business activities.
+The acceptable use policy and guidelines shall be communicated to and understood by all the employees of XTRACAP. The acceptable use policy and guidelines shall be available to the CEO, GMs, DGMs, AGMs, managers.
+
+2. Purpose
+The purpose of this policy is to outline the acceptable use of IT assets at XTRACAP. These rules are in place to protect the employees and the organization. Inappropriate use exposes FCI to risks including virus attacks, compromise of network systems and services, and legal issues.
+
+3. Scope
+3.1 Employees
+This policy applies to all XTRACAP’s Employees, Contractors, and Third-Party Employees, who have access to IT assets of XTRACAP and may be bound by contractual agreements.
+3.2 IT Assets
+The policy is applicable to all Hardware assets, Software assets, Network assets, and Utilities, including Air Conditioner, Power and Telecommunication services (that serve IT assets of XTRACAP). Equipment owned by third parties, but in the custody of XTRACAP, will also be covered under the scope.
+3.3 Documentation
+The documentation shall consist of Acceptable Use Policy, guidelines and policies & procedures for acceptable use of each service.
+3.4 Document Control
+The Acceptable Use Policy document and all other referenced documents shall be controlled. Version control shall be to preserve the latest release and the previous version of any document. However, the previous version of the documents shall be retained only for a period of two years for legal and knowledge preservation .
+3.5 Records
+Records being generated as part of the Acceptable Use Policy shall be retained for a period of two years. Records shall be in hard copy or electronic media. The records shall be owned by the respective system administrators and shall be audited once a year.
+3.6 Distribution and Maintenance
+The Acceptable Use Policy document shall be made available to all the employees covered in the scope. All the changes and new releases of this document shall be made available to the  concerned. The maintenance responsibility of the document shall be with the CISO and system administrators.
+
+4. Privacy
+The Acceptable Use Policy document shall be considered as “confidential” and shall be made available to the concerned persons with proper access control. Subsequent changes and versions of this document shall be controlled.
+
+5. Responsibility
+The Acceptable Use Policy shall be implemented by the CISO / designated personnel.
+Information Security Management is responsible for maintaining this policy and advising generally on information security controls. Working in conjunction with other corporate functions, it is also responsible for running educational activities to raise awareness and understanding of the responsibilities identified in this policy.
+IT Department is responsible for building, configuring, operating and maintaining the corporate email facilities (including anti-spam, anti-malware and other email security controls) in accordance with this policy.
+IT Help/Service Desk is responsible for assisting users with secure use of email facilities, and acts as a focal point for reporting email security incidents.
+All relevant employees are responsible for complying with this and other corporate policies at all times. This policy also applies to third party employees acting in a similar capacity whether they are explicitly bound (e.g., by contractual terms and conditions) or implicitly bound (e.g. by generally held standards of acceptable behavior) to comply with our information security policies.
+Internal Audit is authorized to assess compliance with this and other corporate policies at any time.
+
+6. Policy
+6.1 General Use and Ownership
+a. While the security administration of XTRACAP desires to provide a reasonable level of privacy, users should be aware that the data they create on corporate systems remains the property of XTRACAP. Because of the need to protect the IT assets of XTRACAP, management cannot guarantee the confidentiality of personal information stored on any IT asset belonging to XTRACAP.
+b. Employees are responsible for exercising good judgment regarding the reasonableness of personal use. Individual departments are responsible for creating guidelines concerning personal use of Internet and Intranet systems. In the absence of such policies, employees should be guided by departmental policies on personal use, and if there is any uncertainty, employees should consult their supervisor or manager.
+c. It is recommended that any information that users consider sensitive or vulnerable be protected. For guidelines on information classification, refer “Information classification and handling policy”.
+d. For IT system security and network maintenance purposes, authorized individuals within XTRACAP shall monitor equipment, systems and network traffic at any time, as per its IT Audit Policy or orders issued by the competent authority.
+e. XTRACAP reserves the right to audit networks and systems on a periodic basis to ensure compliance with this policy.
+6.2 Security and Proprietary Information
+a. The user interface for information contained on Internet and Intranet-related systems shall be classified accordingly. Employees shall take all necessary steps to prevent unauthorized access to this information.
+b. Authorized users shall be responsible for the security of their passwords and accounts.
+c. Encryption of information, if used, shall be in compliance with XTRACAP’s Cryptographic Control Usage Policy.
+d. Information contained on portable computers shall be protected.
+e. Users and employees shall use suitable procedures and guidelines for acceptable use of E-mail and internet resources.
+6.3 Unacceptable Use
+Under no circumstances is an employee of XTRACAP authorized to engage in any activity that is illegal under national or international law while utilizing XTRACAP-owned resources. The guidelines for Acceptable Use can be referred to as a list of activities that fall under the category of unacceptable use.
+6.4 Email Security
+1. Do not use email:
+To send confidential/sensitive information, particularly over the Internet, unless it is first encrypted by an encryption system approved by Information Security;
+To create, send, forward or store emails with messages or attachments that might be illegal or considered offensive by an ordinary member of the public i.e., sexually explicit, racist, defamatory, abusive, obscene, derogatory, discriminatory, threatening, harassing or otherwise offensive.
+To commit the organization to a third party for example through purchase or sales contracts, job offers or price quotations, unless you are explicitly authorized by management to do so (principally staff within Procurement and HR). Do not interfere with or remove the standard corporate email disclaimer automatically appended to outbound emails;
+For private or charity work unconnected with the organization’s legitimate business;
+In ways that could be interpreted as representing or being official public statements on behalf of the organization, unless you are a spokesperson explicitly authorized by management to make such statements;
+To send a message from anyone else’s account or in their name (including the use of false ‘from:’ addresses). If authorized by the manager, a secretary may send email on the manager’s behalf but should sign the email in their own name per pro (‘for and on behalf of’) the manager;
+To send any disruptive, offensive, unethical, illegal or otherwise inappropriate matter, including offensive comments about race, gender, color, disability, age, sexual orientation, pornography, terrorism, religious beliefs and practice, political beliefs or national origin, hyperlinks or other references to indecent or patently offensive websites and similar materials, jokes, chain letters, virus warnings and hoaxes, charity requests, viruses or other malicious software;
+For any other illegal, unethical or unauthorized purpose.
+2. Apply your professional discretion when using email, for example abiding by the generally accepted rules of email etiquette. Review emails carefully before sending, especially formal communications with external parties.
+3. Do not unnecessarily disclose potentially sensitive information in “out of office” messages.
+4. Emails on the corporate IT systems are automatically scanned for malicious software, spam and unencrypted proprietary or personal information. Unfortunately, the scanning process is not 100% effective (e.g., compressed and encrypted attachments may not be fully scanned), therefore undesirable/unsavory emails are sometimes delivered to users. Delete such emails or report them as security incidents to IT Help/Service Desk in the normal way.
+5. Except when specifically authorized by management or where necessary for IT system administration purposes, employees must not intercept, divert, modify, delete, save or disclose emails.
+6. Limited personal use of the corporate email systems is permitted at the discretion of local management provided always that it is incidental and occasional, and does not interfere with business. You should have no expectations of privacy: all emails traversing the corporate systems and networks are subject to automated scanning and may be quarantined and/or reviewed by authorized employees.
+7. Do not use Gmail, Hotmail, Yahoo or similar external/third-party email services (commonly known as “web-mail”) for business purposes. Do not forward or auto-forward corporate email to external/third party email systems. [You may access your own web-mail via corporate IT facilities at local management discretion provided that such personal use is strictly limited and is not considered private.
+8. E-mail shall only be used for business purposes, using terms that are consistent with other forms of business communication. E-mail guidelines are intended to help users make the best use of the electronic mail facilities at their disposal. When using the organization’s electronic mail facilities, users should comply with the E-mail guidelines.
+
+
+
+
+
+
+
+
+
+7. Enforcement
+Any employee found to have violated this policy may be subjected to disciplinary action in line with the HR Policy

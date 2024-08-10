@@ -12,14 +12,14 @@ from PIL import Image
 
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 
-folder_path = r'C:\Users\akshatb\Worj\rag\rag\foldeer'
+folder_path = r'/Users/akshatb/documents/ragfin/foldeer'
 model_id = "Snowflake/snowflake-arctic-embed-m-v1.5"
 device = "cuda" if torch.cuda.is_available() else "cpu"
 embeddings_file = 'embeddings.pkl'
 index_file = 'faiss_index.bin'
-cache_dir = r"C:\Users\akshatb\Worj\rag\rag\cache"
+cache_dir = r"/Users/akshatb/documents/ragfin/cache"
 
-df = pd.read_csv('new.csv')
+df = pd.read_csv(r'/Users/akshatb/documents/ragfin/new.csv')
 
 def load_embeddings_and_index(embeddings_file, index_file):
     with open(embeddings_file, 'rb') as f:
